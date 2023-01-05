@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-05T17:25:35-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Federater</title><subtitle>An archive of FedeRater reports on various ActivityPub/fediverse sites and their network relationships.</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-05T18:24:14-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Federater</title><subtitle>An archive of FedeRater reports on various ActivityPub/fediverse sites and their network relationships.</subtitle><entry><title type="html">bungle.online (2023/01/05)</title><link href="http://localhost:4000/2023/01/05/bungle-online.html" rel="alternate" type="text/html" title="bungle.online (2023/01/05)" /><published>2023-01-05T18:20:00-05:00</published><updated>2023-01-05T18:20:00-05:00</updated><id>http://localhost:4000/2023/01/05/bungle-online</id><content type="html" xml:base="http://localhost:4000/2023/01/05/bungle-online.html">&lt;h2 id=&quot;bungleonline---calckey-thatonecalculator-1304&quot;&gt;bungle.online - Calckey (thatonecalculator) 13.0.4&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@8jhq6k32an&lt;/li&gt;
+  &lt;li&gt;@8k6gimkfq3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;☣️ waifuism.life&lt;/li&gt;
+  &lt;li&gt;🐘 cathode.church&lt;/li&gt;
+  &lt;li&gt;☣️ shpposter.club&lt;/li&gt;
+  &lt;li&gt;🐘 novoa.nagoya&lt;/li&gt;
+  &lt;li&gt;🐘 akko.cuddlegirls.cafe&lt;/li&gt;
+  &lt;li&gt;🚫 snowdin.town&lt;/li&gt;
+  &lt;li&gt;🐘 pl.nulled.red&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;☣️ skinnyver.se&lt;/li&gt;
+  &lt;li&gt;☣️ misskey.bubbletea.dev&lt;/li&gt;
+  &lt;li&gt;☣️ social.secretsealing.club&lt;/li&gt;
+  &lt;li&gt;☣️ brotka.st&lt;/li&gt;
+  &lt;li&gt;☣️ shitposter.club&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Thu Jan  5 23:20:02 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">bungle.online - Calckey (thatonecalculator) 13.0.4</summary></entry></feed>
