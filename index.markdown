@@ -10,7 +10,7 @@ For the most part, there's no human intervention: the thing just tells you what 
 
 Note that user count is self-reported, and some sites have patched this to display an artificially-high or -low number, or simply a random one.
 
-FedeRater doesn't look at the content of any posts, rules, etc., or the software in use.
+FedeRater doesn't look at the content of any posts, rules, etc., or the software in use (other than to record it). If your site has a lot of interaction with edgelords because you like to lecture them, I will direct you to Popehat's Rule of Goats.
 
 ### The human side
 
