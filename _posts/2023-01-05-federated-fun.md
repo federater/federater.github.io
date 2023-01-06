@@ -2,6 +2,7 @@
 layout: post
 date: 2023-01-06 00:32 GMT
 title: "federated.fun (2023/01/06)"
+permalink: /federated-fun.html
 ---
 
 ## federated.fun

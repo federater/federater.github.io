@@ -2,6 +2,7 @@
 layout: post
 date: 2023-01-05 23:20 GMT
 title: bungle.online (2023/01/05)
+permalink: /bungle-online.html
 ---
 
 ## bungle.online - Calckey (thatonecalculator) 13.0.4
