@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: FedeRater Reports
 ---
@@ -20,4 +17,3 @@ FedeRater doesn't look at the content of any posts, rules, etc., or the software
 Emoji appear next to the domain names, and this is the only "opinion" entered into the equation. Check the version explanation for the exact details, but in general there are "seed" sites, manually designated as sites that exist in their own, parallel fediverse, almost universally blocked by the mainstream one. FedeRater will then flag sites with high interaction with those sites, and those are the ones it recommends suspension for.
 
 Other emoji next to the domain names indicate the domain's occurrence on other human-curated lists: blocks for other reasons, primarily-bot sites (which you may wish to silence to keep them from dominating hashtags or timelines, even if you otherwise approve of them), etc. Check the footnotes of each report to see what parameters it was generated under, and when.
-
