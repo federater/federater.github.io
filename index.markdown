@@ -4,6 +4,8 @@ title: FedeRater Reports
 ---
 Many decisions on whether to join (as a user) or defederate from (as an admin) a site are assisted by knowing what other sites tend to be in that one's orbit. FedeRater polls the cloud of public posts, and maps some of those connections in a simple report. It's not intended to be the be-all, end-all of anything, but it makes the extremes very easy to spot.
 
+_This is not a blocklist! Domains of all varieties show up here - in particular, if someone reports a domain on the fediblock hashtag, both reporter and reported domains will get a report (if they aren't already here). Use both to decide if the report is trustworthy, or if you need to look further yourself.
+
 ### The machine side
 
 For the most part, there's no human intervention: the thing just tells you what it's seen. Sometimes it can't figure out what administration endorses, sometimes it can't find a public, federated timeline (not all sites have one). Other than that, it is showing you the top 5-10 sites in each category.
