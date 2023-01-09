@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cybre.club (forwarding)"
-permalink: /forwarding-cybre-club.html
+permalink: /cybre-club.html
 ---
 
 No longer updated - check cybre.club on the Fediverse Almanac.

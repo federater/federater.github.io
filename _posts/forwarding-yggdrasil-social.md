@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "yggdrasil.social (forwarding)"
-permalink: /forwarding-yggdrasil-social.html
+permalink: /yggdrasil-social.html
 ---
 
 No longer updated - check yggdrasil.social on the Fediverse Almanac.

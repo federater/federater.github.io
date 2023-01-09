@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "rdrama.cc (forwarding)"
-permalink: /forwarding-rdrama-cc.html
+permalink: /rdrama-cc.html
 ---
 
 No longer updated - check rdrama.cc on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lolison.network (forwarding)"
-permalink: /forwarding-lolison-network.html
+permalink: /lolison-network.html
 ---
 
 No longer updated - check lolison.network on the Fediverse Almanac.

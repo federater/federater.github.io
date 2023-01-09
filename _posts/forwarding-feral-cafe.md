@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "feral.cafe (forwarding)"
-permalink: /forwarding-feral-cafe.html
+permalink: /feral-cafe.html
 ---
 
 No longer updated - check feral.cafe on the Fediverse Almanac.

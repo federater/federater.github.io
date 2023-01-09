@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "birdbox.party (forwarding)"
-permalink: /forwarding-birdbox-party.html
+permalink: /birdbox-party.html
 ---
 
 No longer updated - check birdbox.party on the Fediverse Almanac.

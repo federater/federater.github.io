@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pleroma.electronblueberry.xyz (forwarding)"
-permalink: /forwarding-pleroma-electronblueberry-xyz.html
+permalink: /pleroma-electronblueberry-xyz.html
 ---
 
 No longer updated - check pleroma.electronblueberry.xyz on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "infosec.exchange (forwarding)"
-permalink: /forwarding-infosec-exchange.html
+permalink: /infosec-exchange.html
 ---
 
 No longer updated - check infosec.exchange on the Fediverse Almanac.

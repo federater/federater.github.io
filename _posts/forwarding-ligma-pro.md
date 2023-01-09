@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ligma.pro (forwarding)"
-permalink: /forwarding-ligma-pro.html
+permalink: /ligma-pro.html
 ---
 
 No longer updated - check ligma.pro on the Fediverse Almanac.

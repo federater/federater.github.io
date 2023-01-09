@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "plushies.social (forwarding)"
-permalink: /forwarding-plushies-social.html
+permalink: /plushies-social.html
 ---
 
 No longer updated - check plushies.social on the Fediverse Almanac.

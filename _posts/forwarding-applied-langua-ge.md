@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "applied.langua.ge (forwarding)"
-permalink: /forwarding-applied-langua-ge.html
+permalink: /applied-langua-ge.html
 ---
 
 No longer updated - check applied.langua.ge on the Fediverse Almanac.

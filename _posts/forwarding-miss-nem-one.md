@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "miss.nem.one (forwarding)"
-permalink: /forwarding-miss-nem-one.html
+permalink: /miss-nem-one.html
 ---
 
 No longer updated - check miss.nem.one on the Fediverse Almanac.

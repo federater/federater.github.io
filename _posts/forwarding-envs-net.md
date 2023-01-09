@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "envs.net (forwarding)"
-permalink: /forwarding-envs-net.html
+permalink: /envs-net.html
 ---
 
 No longer updated - check envs.net on the Fediverse Almanac.

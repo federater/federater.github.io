@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "strelizia.net (forwarding)"
-permalink: /forwarding-strelizia-net.html
+permalink: /strelizia-net.html
 ---
 
 No longer updated - check strelizia.net on the Fediverse Almanac.

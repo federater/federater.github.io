@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "servernerds.net (forwarding)"
-permalink: /forwarding-servernerds-net.html
+permalink: /servernerds-net.html
 ---
 
 No longer updated - check servernerds.net on the Fediverse Almanac.

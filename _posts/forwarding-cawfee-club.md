@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cawfee.club (forwarding)"
-permalink: /forwarding-cawfee-club.html
+permalink: /cawfee-club.html
 ---
 
 No longer updated - check cawfee.club on the Fediverse Almanac.

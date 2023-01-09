@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pl.smuglo.li (forwarding)"
-permalink: /forwarding-pl-smuglo-li.html
+permalink: /pl-smuglo-li.html
 ---
 
 No longer updated - check pl.smuglo.li on the Fediverse Almanac.

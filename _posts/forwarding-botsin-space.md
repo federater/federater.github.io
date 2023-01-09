@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "botsin.space (forwarding)"
-permalink: /forwarding-botsin-space.html
+permalink: /botsin-space.html
 ---
 
 No longer updated - check botsin.space on the Fediverse Almanac.

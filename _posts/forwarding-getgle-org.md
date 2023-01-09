@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "getgle.org (forwarding)"
-permalink: /forwarding-getgle-org.html
+permalink: /getgle-org.html
 ---
 
 No longer updated - check getgle.org on the Fediverse Almanac.

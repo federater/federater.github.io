@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.modern.industry.com (forwarding)"
-permalink: /forwarding-mastodon-modern-industry-com.html
+permalink: /mastodon-modern-industry-com.html
 ---
 
 No longer updated - check mastodon.modern.industry.com on the Fediverse Almanac.

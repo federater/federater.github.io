@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "anoxinon.de (forwarding)"
-permalink: /forwarding-anoxinon-de.html
+permalink: /anoxinon-de.html
 ---
 
 No longer updated - check anoxinon.de on the Fediverse Almanac.

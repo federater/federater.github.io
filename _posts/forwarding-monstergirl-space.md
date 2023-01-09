@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "monstergirl.space (forwarding)"
-permalink: /forwarding-monstergirl-space.html
+permalink: /monstergirl-space.html
 ---
 
 No longer updated - check monstergirl.space on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "urchan.org (forwarding)"
-permalink: /forwarding-urchan-org.html
+permalink: /urchan-org.html
 ---
 
 No longer updated - check urchan.org on the Fediverse Almanac.

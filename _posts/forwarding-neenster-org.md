@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "neenster.org (forwarding)"
-permalink: /forwarding-neenster-org.html
+permalink: /neenster-org.html
 ---
 
 No longer updated - check neenster.org on the Fediverse Almanac.

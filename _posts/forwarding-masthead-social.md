@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "masthead.social (forwarding)"
-permalink: /forwarding-masthead-social.html
+permalink: /masthead-social.html
 ---
 
 No longer updated - check masthead.social on the Fediverse Almanac.

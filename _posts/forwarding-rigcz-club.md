@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "rigcz.club (forwarding)"
-permalink: /forwarding-rigcz-club.html
+permalink: /rigcz-club.html
 ---
 
 No longer updated - check rigcz.club on the Fediverse Almanac.

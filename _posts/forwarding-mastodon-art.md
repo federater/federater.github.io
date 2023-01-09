@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.art (forwarding)"
-permalink: /forwarding-mastodon-art.html
+permalink: /mastodon-art.html
 ---
 
 No longer updated - check mastodon.art on the Fediverse Almanac.

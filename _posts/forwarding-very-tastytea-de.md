@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "very.tastytea.de (forwarding)"
-permalink: /forwarding-very-tastytea-de.html
+permalink: /very-tastytea-de.html
 ---
 
 No longer updated - check very.tastytea.de on the Fediverse Almanac.

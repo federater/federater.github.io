@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "honkwerx.tech (forwarding)"
-permalink: /forwarding-honkwerx-tech.html
+permalink: /honkwerx-tech.html
 ---
 
 No longer updated - check honkwerx.tech on the Fediverse Almanac.

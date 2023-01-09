@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "toot.spooky.computer (forwarding)"
-permalink: /forwarding-toot-spooky-computer.html
+permalink: /toot-spooky-computer.html
 ---
 
 No longer updated - check toot.spooky.computer on the Fediverse Almanac.

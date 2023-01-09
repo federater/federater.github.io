@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "the9thcircle.club (forwarding)"
-permalink: /forwarding-the9thcircle-club.html
+permalink: /the9thcircle-club.html
 ---
 
 No longer updated - check the9thcircle.club on the Fediverse Almanac.

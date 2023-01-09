@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bungle.online (forwarding)"
-permalink: /forwarding-bungle-online.html
+permalink: /bungle-online.html
 ---
 
 No longer updated - check bungle.online on the Fediverse Almanac.

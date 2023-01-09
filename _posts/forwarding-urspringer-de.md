@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "urspringer.de (forwarding)"
-permalink: /forwarding-urspringer-de.html
+permalink: /urspringer-de.html
 ---
 
 No longer updated - check urspringer.de on the Fediverse Almanac.

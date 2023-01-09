@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "masochi.st (forwarding)"
-permalink: /forwarding-masochi-st.html
+permalink: /masochi-st.html
 ---
 
 No longer updated - check masochi.st on the Fediverse Almanac.

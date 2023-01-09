@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "thebag.social (forwarding)"
-permalink: /forwarding-thebag-social.html
+permalink: /thebag-social.html
 ---
 
 No longer updated - check thebag.social on the Fediverse Almanac.

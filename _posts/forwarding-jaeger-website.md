@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "jaeger.website (forwarding)"
-permalink: /forwarding-jaeger-website.html
+permalink: /jaeger-website.html
 ---
 
 No longer updated - check jaeger.website on the Fediverse Almanac.

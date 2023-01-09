@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "silverspine.net (forwarding)"
-permalink: /forwarding-silverspine-net.html
+permalink: /silverspine-net.html
 ---
 
 No longer updated - check silverspine.net on the Fediverse Almanac.

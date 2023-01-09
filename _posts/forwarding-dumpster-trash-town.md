@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "dumpster.trash.town (forwarding)"
-permalink: /forwarding-dumpster-trash-town.html
+permalink: /dumpster-trash-town.html
 ---
 
 No longer updated - check dumpster.trash.town on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "f.cz (forwarding)"
-permalink: /forwarding-f-cz.html
+permalink: /f-cz.html
 ---
 
 No longer updated - check f.cz on the Fediverse Almanac.

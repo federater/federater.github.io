@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "x0f.org (forwarding)"
-permalink: /forwarding-x0f-org.html
+permalink: /x0f-org.html
 ---
 
 No longer updated - check x0f.org on the Fediverse Almanac.

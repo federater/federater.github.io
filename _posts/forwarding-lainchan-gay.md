@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lainchan.gay (forwarding)"
-permalink: /forwarding-lainchan-gay.html
+permalink: /lainchan-gay.html
 ---
 
 No longer updated - check lainchan.gay on the Fediverse Almanac.

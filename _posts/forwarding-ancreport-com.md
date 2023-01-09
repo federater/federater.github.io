@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ancreport.com (forwarding)"
-permalink: /forwarding-ancreport-com.html
+permalink: /ancreport-com.html
 ---
 
 No longer updated - check ancreport.com on the Fediverse Almanac.

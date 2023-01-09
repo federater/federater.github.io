@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "asbestos.cafe (forwarding)"
-permalink: /forwarding-asbestos-cafe.html
+permalink: /asbestos-cafe.html
 ---
 
 No longer updated - check asbestos.cafe on the Fediverse Almanac.

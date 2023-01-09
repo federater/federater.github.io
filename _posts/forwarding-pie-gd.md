@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pie.gd (forwarding)"
-permalink: /forwarding-pie-gd.html
+permalink: /pie-gd.html
 ---
 
 No longer updated - check pie.gd on the Fediverse Almanac.

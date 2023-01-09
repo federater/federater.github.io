@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "comfyboy.club (forwarding)"
-permalink: /forwarding-comfyboy-club.html
+permalink: /comfyboy-club.html
 ---
 
 No longer updated - check comfyboy.club on the Fediverse Almanac.

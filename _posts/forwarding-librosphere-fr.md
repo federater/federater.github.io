@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "librosphere.fr (forwarding)"
-permalink: /forwarding-librosphere-fr.html
+permalink: /librosphere-fr.html
 ---
 
 No longer updated - check librosphere.fr on the Fediverse Almanac.

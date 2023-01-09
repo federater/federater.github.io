@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mas.glowing.surf (forwarding)"
-permalink: /forwarding-mas-glowing-surf.html
+permalink: /mas-glowing-surf.html
 ---
 
 No longer updated - check mas.glowing.surf on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "buckeye.social (forwarding)"
-permalink: /forwarding-buckeye-social.html
+permalink: /buckeye-social.html
 ---
 
 No longer updated - check buckeye.social on the Fediverse Almanac.

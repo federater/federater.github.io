@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "fluf.club (forwarding)"
-permalink: /forwarding-fluf-club.html
+permalink: /fluf-club.html
 ---
 
 No longer updated - check fluf.club on the Fediverse Almanac.

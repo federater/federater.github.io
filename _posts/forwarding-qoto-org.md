@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "qoto.org (forwarding)"
-permalink: /forwarding-qoto-org.html
+permalink: /qoto-org.html
 ---
 
 No longer updated - check qoto.org on the Fediverse Almanac.

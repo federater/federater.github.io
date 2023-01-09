@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bgtooter.social (forwarding)"
-permalink: /forwarding-bgtooter-social.html
+permalink: /bgtooter-social.html
 ---
 
 No longer updated - check bgtooter.social on the Fediverse Almanac.

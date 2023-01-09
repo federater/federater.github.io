@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "furry.energy (forwarding)"
-permalink: /forwarding-furry-energy.html
+permalink: /furry-energy.html
 ---
 
 No longer updated - check furry.energy on the Fediverse Almanac.

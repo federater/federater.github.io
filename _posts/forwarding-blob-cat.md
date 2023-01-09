@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "blob.cat (forwarding)"
-permalink: /forwarding-blob-cat.html
+permalink: /blob-cat.html
 ---
 
 No longer updated - check blob.cat on the Fediverse Almanac.

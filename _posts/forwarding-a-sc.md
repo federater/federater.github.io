@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "a.sc (forwarding)"
-permalink: /forwarding-a-sc.html
+permalink: /a-sc.html
 ---
 
 No longer updated - check a.sc on the Fediverse Almanac.

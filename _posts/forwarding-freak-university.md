@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "freak.university (forwarding)"
-permalink: /forwarding-freak-university.html
+permalink: /freak-university.html
 ---
 
 No longer updated - check freak.university on the Fediverse Almanac.

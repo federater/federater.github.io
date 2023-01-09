@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "joseli.to (forwarding)"
-permalink: /forwarding-joseli-to.html
+permalink: /joseli-to.html
 ---
 
 No longer updated - check joseli.to on the Fediverse Almanac.

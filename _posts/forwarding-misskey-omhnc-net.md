@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "misskey.omhnc.net (forwarding)"
-permalink: /forwarding-misskey-omhnc-net.html
+permalink: /misskey-omhnc-net.html
 ---
 
 No longer updated - check misskey.omhnc.net on the Fediverse Almanac.

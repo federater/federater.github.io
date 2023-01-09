@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "federated.fun (forwarding)"
-permalink: /forwarding-federated-fun.html
+permalink: /federated-fun.html
 ---
 
 No longer updated - check federated.fun on the Fediverse Almanac.

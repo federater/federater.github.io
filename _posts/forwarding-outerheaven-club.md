@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "outerheaven.club (forwarding)"
-permalink: /forwarding-outerheaven-club.html
+permalink: /outerheaven-club.html
 ---
 
 No longer updated - check outerheaven.club on the Fediverse Almanac.

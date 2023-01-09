@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "sea.social (forwarding)"
-permalink: /forwarding-sea-social.html
+permalink: /sea-social.html
 ---
 
 No longer updated - check sea.social on the Fediverse Almanac.

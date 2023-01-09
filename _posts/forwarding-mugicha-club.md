@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mugicha.club (forwarding)"
-permalink: /forwarding-mugicha-club.html
+permalink: /mugicha-club.html
 ---
 
 No longer updated - check mugicha.club on the Fediverse Almanac.

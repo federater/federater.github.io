@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "jpop.club (forwarding)"
-permalink: /forwarding-jpop-club.html
+permalink: /jpop-club.html
 ---
 
 No longer updated - check jpop.club on the Fediverse Almanac.

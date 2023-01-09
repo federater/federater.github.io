@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "helladoge.com (forwarding)"
-permalink: /forwarding-helladoge-com.html
+permalink: /helladoge-com.html
 ---
 
 No longer updated - check helladoge.com on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ariona.fr (forwarding)"
-permalink: /forwarding-ariona-fr.html
+permalink: /ariona-fr.html
 ---
 
 No longer updated - check ariona.fr on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "flimpie.net (forwarding)"
-permalink: /forwarding-flimpie-net.html
+permalink: /flimpie-net.html
 ---
 
 No longer updated - check flimpie.net on the Fediverse Almanac.

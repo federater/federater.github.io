@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "layer8.space (forwarding)"
-permalink: /forwarding-layer8-space.html
+permalink: /layer8-space.html
 ---
 
 No longer updated - check layer8.space on the Fediverse Almanac.

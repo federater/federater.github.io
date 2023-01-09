@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "stop.voring.me (forwarding)"
-permalink: /forwarding-stop-voring-me.html
+permalink: /stop-voring-me.html
 ---
 
 No longer updated - check stop.voring.me on the Fediverse Almanac.

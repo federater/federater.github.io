@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "absturztau.be (forwarding)"
-permalink: /forwarding-absturztau-be.html
+permalink: /absturztau-be.html
 ---
 
 No longer updated - check absturztau.be on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "starry.ml (forwarding)"
-permalink: /forwarding-starry-ml.html
+permalink: /starry-ml.html
 ---
 
 No longer updated - check starry.ml on the Fediverse Almanac.

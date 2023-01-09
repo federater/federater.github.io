@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "computerfairi.es (forwarding)"
-permalink: /forwarding-computerfairi-es.html
+permalink: /computerfairi-es.html
 ---
 
 No longer updated - check computerfairi.es on the Fediverse Almanac.

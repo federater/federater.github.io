@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "drazisil.com (forwarding)"
-permalink: /forwarding-drazisil-com.html
+permalink: /drazisil-com.html
 ---
 
 No longer updated - check drazisil.com on the Fediverse Almanac.

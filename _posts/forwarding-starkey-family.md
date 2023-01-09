@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "starkey.family (forwarding)"
-permalink: /forwarding-starkey-family.html
+permalink: /starkey-family.html
 ---
 
 No longer updated - check starkey.family on the Fediverse Almanac.

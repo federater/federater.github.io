@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "natehiggers.online (forwarding)"
-permalink: /forwarding-natehiggers-online.html
+permalink: /natehiggers-online.html
 ---
 
 No longer updated - check natehiggers.online on the Fediverse Almanac.

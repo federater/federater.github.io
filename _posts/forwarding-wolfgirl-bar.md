@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "wolfgirl.bar (forwarding)"
-permalink: /forwarding-wolfgirl-bar.html
+permalink: /wolfgirl-bar.html
 ---
 
 No longer updated - check wolfgirl.bar on the Fediverse Almanac.

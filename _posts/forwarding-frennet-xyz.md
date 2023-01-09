@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "frennet.xyz (forwarding)"
-permalink: /forwarding-frennet-xyz.html
+permalink: /frennet-xyz.html
 ---
 
 No longer updated - check frennet.xyz on the Fediverse Almanac.

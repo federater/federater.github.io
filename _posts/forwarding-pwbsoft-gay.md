@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pwbsoft.gay (forwarding)"
-permalink: /forwarding-pwbsoft-gay.html
+permalink: /pwbsoft-gay.html
 ---
 
 No longer updated - check pwbsoft.gay on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "framatube.org (forwarding)"
-permalink: /forwarding-framatube-org.html
+permalink: /framatube-org.html
 ---
 
 No longer updated - check framatube.org on the Fediverse Almanac.

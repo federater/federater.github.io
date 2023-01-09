@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gegenstimme.tv (forwarding)"
-permalink: /forwarding-gegenstimme-tv.html
+permalink: /gegenstimme-tv.html
 ---
 
 No longer updated - check gegenstimme.tv on the Fediverse Almanac.

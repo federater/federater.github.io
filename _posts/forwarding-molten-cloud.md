@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "molten.cloud (forwarding)"
-permalink: /forwarding-molten-cloud.html
+permalink: /molten-cloud.html
 ---
 
 No longer updated - check molten.cloud on the Fediverse Almanac.

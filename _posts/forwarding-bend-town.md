@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bend.town (forwarding)"
-permalink: /forwarding-bend-town.html
+permalink: /bend-town.html
 ---
 
 No longer updated - check bend.town on the Fediverse Almanac.

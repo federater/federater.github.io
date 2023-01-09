@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "trotzallem.noblogs.org (forwarding)"
-permalink: /forwarding-trotzallem-noblogs-org.html
+permalink: /trotzallem-noblogs-org.html
 ---
 
 No longer updated - check trotzallem.noblogs.org on the Fediverse Almanac.

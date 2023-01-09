@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "decentralised.social (forwarding)"
-permalink: /forwarding-decentralised-social.html
+permalink: /decentralised-social.html
 ---
 
 No longer updated - check decentralised.social on the Fediverse Almanac.

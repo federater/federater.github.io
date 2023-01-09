@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "arewe.social (forwarding)"
-permalink: /forwarding-arewe-social.html
+permalink: /arewe-social.html
 ---
 
 No longer updated - check arewe.social on the Fediverse Almanac.

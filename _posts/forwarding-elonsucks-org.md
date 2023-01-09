@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "elonsucks.org (forwarding)"
-permalink: /forwarding-elonsucks-org.html
+permalink: /elonsucks-org.html
 ---
 
 No longer updated - check elonsucks.org on the Fediverse Almanac.

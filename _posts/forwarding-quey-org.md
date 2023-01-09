@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "quey.org (forwarding)"
-permalink: /forwarding-quey-org.html
+permalink: /quey-org.html
 ---
 
 No longer updated - check quey.org on the Fediverse Almanac.

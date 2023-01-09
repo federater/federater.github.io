@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "fedi.lucdev.net (forwarding)"
-permalink: /forwarding-fedi-lucdev-net.html
+permalink: /fedi-lucdev-net.html
 ---
 
 No longer updated - check fedi.lucdev.net on the Fediverse Almanac.

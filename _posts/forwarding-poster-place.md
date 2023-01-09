@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "poster.place (forwarding)"
-permalink: /forwarding-poster-place.html
+permalink: /poster-place.html
 ---
 
 No longer updated - check poster.place on the Fediverse Almanac.

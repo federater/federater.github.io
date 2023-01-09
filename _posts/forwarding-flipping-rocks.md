@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "flipping.rocks (forwarding)"
-permalink: /forwarding-flipping-rocks.html
+permalink: /flipping-rocks.html
 ---
 
 No longer updated - check flipping.rocks on the Fediverse Almanac.

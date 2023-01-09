@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "liberdon.com (forwarding)"
-permalink: /forwarding-liberdon-com.html
+permalink: /liberdon-com.html
 ---
 
 No longer updated - check liberdon.com on the Fediverse Almanac.

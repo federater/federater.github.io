@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pixelfed.home.monsiteinternet.org (forwarding)"
-permalink: /forwarding-pixelfed-home-monsiteinternet-org.html
+permalink: /pixelfed-home-monsiteinternet-org.html
 ---
 
 No longer updated - check pixelfed.home.monsiteinternet.org on the Fediverse Almanac.

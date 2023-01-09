@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "furry.engineer (forwarding)"
-permalink: /forwarding-furry-engineer.html
+permalink: /furry-engineer.html
 ---
 
 No longer updated - check furry.engineer on the Fediverse Almanac.

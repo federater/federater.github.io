@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ioc.exchange (forwarding)"
-permalink: /forwarding-ioc-exchange.html
+permalink: /ioc-exchange.html
 ---
 
 No longer updated - check ioc.exchange on the Fediverse Almanac.

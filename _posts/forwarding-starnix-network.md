@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "starnix.network (forwarding)"
-permalink: /forwarding-starnix-network.html
+permalink: /starnix-network.html
 ---
 
 No longer updated - check starnix.network on the Fediverse Almanac.

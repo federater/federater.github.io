@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pisskey.io (forwarding)"
-permalink: /forwarding-pisskey-io.html
+permalink: /pisskey-io.html
 ---
 
 No longer updated - check pisskey.io on the Fediverse Almanac.

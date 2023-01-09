@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "c.im (forwarding)"
-permalink: /forwarding-c-im.html
+permalink: /c-im.html
 ---
 
 No longer updated - check c.im on the Fediverse Almanac.

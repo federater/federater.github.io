@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "tesaguri.club (forwarding)"
-permalink: /forwarding-tesaguri-club.html
+permalink: /tesaguri-club.html
 ---
 
 No longer updated - check tesaguri.club on the Fediverse Almanac.

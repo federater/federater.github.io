@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mstdn.ca (forwarding)"
-permalink: /forwarding-mstdn-ca.html
+permalink: /mstdn-ca.html
 ---
 
 No longer updated - check mstdn.ca on the Fediverse Almanac.

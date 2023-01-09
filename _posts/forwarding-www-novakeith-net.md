@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "www.novakeith.net (forwarding)"
-permalink: /forwarding-www-novakeith-net.html
+permalink: /www-novakeith-net.html
 ---
 
 No longer updated - check www.novakeith.net on the Fediverse Almanac.

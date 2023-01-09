@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cyberspace.netrunner.cfd (forwarding)"
-permalink: /forwarding-cyberspace-netrunner-cfd.html
+permalink: /cyberspace-netrunner-cfd.html
 ---
 
 No longer updated - check cyberspace.netrunner.cfd on the Fediverse Almanac.

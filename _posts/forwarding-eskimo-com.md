@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "eskimo.com (forwarding)"
-permalink: /forwarding-eskimo-com.html
+permalink: /eskimo-com.html
 ---
 
 No longer updated - check eskimo.com on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "valkyrie.world (forwarding)"
-permalink: /forwarding-valkyrie-world.html
+permalink: /valkyrie-world.html
 ---
 
 No longer updated - check valkyrie.world on the Fediverse Almanac.

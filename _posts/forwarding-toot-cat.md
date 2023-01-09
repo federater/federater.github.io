@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "toot.cat (forwarding)"
-permalink: /forwarding-toot-cat.html
+permalink: /toot-cat.html
 ---
 
 No longer updated - check toot.cat on the Fediverse Almanac.

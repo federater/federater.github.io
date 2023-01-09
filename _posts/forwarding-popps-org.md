@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "popps.org (forwarding)"
-permalink: /forwarding-popps-org.html
+permalink: /popps-org.html
 ---
 
 No longer updated - check popps.org on the Fediverse Almanac.

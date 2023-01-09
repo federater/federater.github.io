@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "tastingtraffic.net (forwarding)"
-permalink: /forwarding-tastingtraffic-net.html
+permalink: /tastingtraffic-net.html
 ---
 
 No longer updated - check tastingtraffic.net on the Fediverse Almanac.

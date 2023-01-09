@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "rapemeat.solutions (forwarding)"
-permalink: /forwarding-rapemeat-solutions.html
+permalink: /rapemeat-solutions.html
 ---
 
 No longer updated - check rapemeat.solutions on the Fediverse Almanac.

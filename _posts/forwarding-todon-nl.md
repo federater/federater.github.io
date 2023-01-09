@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "todon.nl (forwarding)"
-permalink: /forwarding-todon-nl.html
+permalink: /todon-nl.html
 ---
 
 No longer updated - check todon.nl on the Fediverse Almanac.

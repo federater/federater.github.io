@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "tavern.drow.be (forwarding)"
-permalink: /forwarding-tavern-drow-be.html
+permalink: /tavern-drow-be.html
 ---
 
 No longer updated - check tavern.drow.be on the Fediverse Almanac.

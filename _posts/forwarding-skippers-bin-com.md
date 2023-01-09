@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "skippers.bin.com (forwarding)"
-permalink: /forwarding-skippers-bin-com.html
+permalink: /skippers-bin-com.html
 ---
 
 No longer updated - check skippers.bin.com on the Fediverse Almanac.

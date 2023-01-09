@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bruh.homd.xyz (forwarding)"
-permalink: /forwarding-bruh-homd-xyz.html
+permalink: /bruh-homd-xyz.html
 ---
 
 No longer updated - check bruh.homd.xyz on the Fediverse Almanac.

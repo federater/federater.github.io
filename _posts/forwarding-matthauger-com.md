@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "matthauger.com (forwarding)"
-permalink: /forwarding-matthauger-com.html
+permalink: /matthauger-com.html
 ---
 
 No longer updated - check matthauger.com on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "dadalo.pl (forwarding)"
-permalink: /forwarding-dadalo-pl.html
+permalink: /dadalo-pl.html
 ---
 
 No longer updated - check dadalo.pl on the Fediverse Almanac.

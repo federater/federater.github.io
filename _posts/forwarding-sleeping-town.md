@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "sleeping.town (forwarding)"
-permalink: /forwarding-sleeping-town.html
+permalink: /sleeping-town.html
 ---
 
 No longer updated - check sleeping.town on the Fediverse Almanac.

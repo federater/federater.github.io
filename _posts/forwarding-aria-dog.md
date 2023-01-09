@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "aria.dog (forwarding)"
-permalink: /forwarding-aria-dog.html
+permalink: /aria-dog.html
 ---
 
 No longer updated - check aria.dog on the Fediverse Almanac.

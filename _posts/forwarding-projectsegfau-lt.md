@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "projectsegfau.lt (forwarding)"
-permalink: /forwarding-projectsegfau-lt.html
+permalink: /projectsegfau-lt.html
 ---
 
 No longer updated - check projectsegfau.lt on the Fediverse Almanac.

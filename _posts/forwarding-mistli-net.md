@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mistli.net (forwarding)"
-permalink: /forwarding-mistli-net.html
+permalink: /mistli-net.html
 ---
 
 No longer updated - check mistli.net on the Fediverse Almanac.

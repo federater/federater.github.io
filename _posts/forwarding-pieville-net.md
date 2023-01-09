@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pieville.net (forwarding)"
-permalink: /forwarding-pieville-net.html
+permalink: /pieville-net.html
 ---
 
 No longer updated - check pieville.net on the Fediverse Almanac.

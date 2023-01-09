@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pixie.town (forwarding)"
-permalink: /forwarding-pixie-town.html
+permalink: /pixie-town.html
 ---
 
 No longer updated - check pixie.town on the Fediverse Almanac.

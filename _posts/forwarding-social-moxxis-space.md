@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.moxxis.space (forwarding)"
-permalink: /forwarding-social-moxxis-space.html
+permalink: /social-moxxis-space.html
 ---
 
 No longer updated - check social.moxxis.space on the Fediverse Almanac.

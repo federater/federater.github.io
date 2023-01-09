@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.online (forwarding)"
-permalink: /forwarding-mastodon-online.html
+permalink: /mastodon-online.html
 ---
 
 No longer updated - check mastodon.online on the Fediverse Almanac.

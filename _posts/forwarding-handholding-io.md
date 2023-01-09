@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "handholding.io (forwarding)"
-permalink: /forwarding-handholding-io.html
+permalink: /handholding-io.html
 ---
 
 No longer updated - check handholding.io on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "calckey.cloud (forwarding)"
-permalink: /forwarding-calckey-cloud.html
+permalink: /calckey-cloud.html
 ---
 
 No longer updated - check calckey.cloud on the Fediverse Almanac.

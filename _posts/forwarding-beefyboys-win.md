@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "beefyboys.win (forwarding)"
-permalink: /forwarding-beefyboys-win.html
+permalink: /beefyboys-win.html
 ---
 
 No longer updated - check beefyboys.win on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "hirad.it (forwarding)"
-permalink: /forwarding-hirad-it.html
+permalink: /hirad-it.html
 ---
 
 No longer updated - check hirad.it on the Fediverse Almanac.

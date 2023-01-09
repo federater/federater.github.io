@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lain.sh (forwarding)"
-permalink: /forwarding-lain-sh.html
+permalink: /lain-sh.html
 ---
 
 No longer updated - check lain.sh on the Fediverse Almanac.

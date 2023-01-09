@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.maescool.be (forwarding)"
-permalink: /forwarding-mastodon-maescool-be.html
+permalink: /mastodon-maescool-be.html
 ---
 
 No longer updated - check mastodon.maescool.be on the Fediverse Almanac.

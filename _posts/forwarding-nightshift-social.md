@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "nightshift.social (forwarding)"
-permalink: /forwarding-nightshift-social.html
+permalink: /nightshift-social.html
 ---
 
 No longer updated - check nightshift.social on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "youjo.love (forwarding)"
-permalink: /forwarding-youjo-love.html
+permalink: /youjo-love.html
 ---
 
 No longer updated - check youjo.love on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "maladaptive.art (forwarding)"
-permalink: /forwarding-maladaptive-art.html
+permalink: /maladaptive-art.html
 ---
 
 No longer updated - check maladaptive.art on the Fediverse Almanac.

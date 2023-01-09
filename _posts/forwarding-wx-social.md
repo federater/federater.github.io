@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "wx.social (forwarding)"
-permalink: /forwarding-wx-social.html
+permalink: /wx-social.html
 ---
 
 No longer updated - check wx.social on the Fediverse Almanac.

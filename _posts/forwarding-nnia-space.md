@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "nnia.space (forwarding)"
-permalink: /forwarding-nnia-space.html
+permalink: /nnia-space.html
 ---
 
 No longer updated - check nnia.space on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "tonybark.com (forwarding)"
-permalink: /forwarding-tonybark-com.html
+permalink: /tonybark-com.html
 ---
 
 No longer updated - check tonybark.com on the Fediverse Almanac.

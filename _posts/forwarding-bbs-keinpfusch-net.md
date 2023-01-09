@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bbs.keinpfusch.net (forwarding)"
-permalink: /forwarding-bbs-keinpfusch-net.html
+permalink: /bbs-keinpfusch-net.html
 ---
 
 No longer updated - check bbs.keinpfusch.net on the Fediverse Almanac.

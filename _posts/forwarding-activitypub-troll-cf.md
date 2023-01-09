@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "activitypub.troll.cf (forwarding)"
-permalink: /forwarding-activitypub-troll-cf.html
+permalink: /activitypub-troll-cf.html
 ---
 
 No longer updated - check activitypub.troll.cf on the Fediverse Almanac.

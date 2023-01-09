@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "babbel.social (forwarding)"
-permalink: /forwarding-babbel-social.html
+permalink: /babbel-social.html
 ---
 
 No longer updated - check babbel.social on the Fediverse Almanac.

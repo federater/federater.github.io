@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "narrativerry.xyz (forwarding)"
-permalink: /forwarding-narrativerry-xyz.html
+permalink: /narrativerry-xyz.html
 ---
 
 No longer updated - check narrativerry.xyz on the Fediverse Almanac.

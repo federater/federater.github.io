@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "eveningzoo.club (forwarding)"
-permalink: /forwarding-eveningzoo-club.html
+permalink: /eveningzoo-club.html
 ---
 
 No longer updated - check eveningzoo.club on the Fediverse Almanac.

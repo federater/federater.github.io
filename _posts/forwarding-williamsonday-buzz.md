@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "williamsonday.buzz (forwarding)"
-permalink: /forwarding-williamsonday-buzz.html
+permalink: /williamsonday-buzz.html
 ---
 
 No longer updated - check williamsonday.buzz on the Fediverse Almanac.

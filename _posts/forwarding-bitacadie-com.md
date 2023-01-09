@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bitacadie.com (forwarding)"
-permalink: /forwarding-bitacadie-com.html
+permalink: /bitacadie-com.html
 ---
 
 No longer updated - check bitacadie.com on the Fediverse Almanac.

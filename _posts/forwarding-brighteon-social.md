@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "brighteon.social (forwarding)"
-permalink: /forwarding-brighteon-social.html
+permalink: /brighteon-social.html
 ---
 
 No longer updated - check brighteon.social on the Fediverse Almanac.

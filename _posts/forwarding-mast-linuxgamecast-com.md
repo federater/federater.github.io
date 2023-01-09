@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mast.linuxgamecast.com (forwarding)"
-permalink: /forwarding-mast-linuxgamecast-com.html
+permalink: /mast-linuxgamecast-com.html
 ---
 
 No longer updated - check mast.linuxgamecast.com on the Fediverse Almanac.

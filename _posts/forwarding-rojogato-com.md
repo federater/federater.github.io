@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "rojogato.com (forwarding)"
-permalink: /forwarding-rojogato-com.html
+permalink: /rojogato-com.html
 ---
 
 No longer updated - check rojogato.com on the Fediverse Almanac.

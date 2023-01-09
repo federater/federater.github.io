@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "eientei.org (forwarding)"
-permalink: /forwarding-eientei-org.html
+permalink: /eientei-org.html
 ---
 
 No longer updated - check eientei.org on the Fediverse Almanac.

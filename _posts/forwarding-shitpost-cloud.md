@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "shitpost.cloud (forwarding)"
-permalink: /forwarding-shitpost-cloud.html
+permalink: /shitpost-cloud.html
 ---
 
 No longer updated - check shitpost.cloud on the Fediverse Almanac.

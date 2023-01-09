@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "berserker.town (forwarding)"
-permalink: /forwarding-berserker-town.html
+permalink: /berserker-town.html
 ---
 
 No longer updated - check berserker.town on the Fediverse Almanac.

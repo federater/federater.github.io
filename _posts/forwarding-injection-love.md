@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "injection.love (forwarding)"
-permalink: /forwarding-injection-love.html
+permalink: /injection-love.html
 ---
 
 No longer updated - check injection.love on the Fediverse Almanac.

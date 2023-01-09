@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "eldritch.cafe (forwarding)"
-permalink: /forwarding-eldritch-cafe.html
+permalink: /eldritch-cafe.html
 ---
 
 No longer updated - check eldritch.cafe on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodonians.social (forwarding)"
-permalink: /forwarding-mastodonians-social.html
+permalink: /mastodonians-social.html
 ---
 
 No longer updated - check mastodonians.social on the Fediverse Almanac.

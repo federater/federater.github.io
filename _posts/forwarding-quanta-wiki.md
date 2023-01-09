@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "quanta.wiki (forwarding)"
-permalink: /forwarding-quanta-wiki.html
+permalink: /quanta-wiki.html
 ---
 
 No longer updated - check quanta.wiki on the Fediverse Almanac.

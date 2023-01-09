@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "masto.id (forwarding)"
-permalink: /forwarding-masto-id.html
+permalink: /masto-id.html
 ---
 
 No longer updated - check masto.id on the Fediverse Almanac.

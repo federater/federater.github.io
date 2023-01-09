@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "woof.group (forwarding)"
-permalink: /forwarding-woof-group.html
+permalink: /woof-group.html
 ---
 
 No longer updated - check woof.group on the Fediverse Almanac.

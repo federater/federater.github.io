@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "letsalllovela.in (forwarding)"
-permalink: /forwarding-letsalllovela-in.html
+permalink: /letsalllovela-in.html
 ---
 
 No longer updated - check letsalllovela.in on the Fediverse Almanac.

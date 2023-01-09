@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "calobar.club (forwarding)"
-permalink: /forwarding-calobar-club.html
+permalink: /calobar-club.html
 ---
 
 No longer updated - check calobar.club on the Fediverse Almanac.

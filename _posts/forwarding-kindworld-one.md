@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "kindworld.one (forwarding)"
-permalink: /forwarding-kindworld-one.html
+permalink: /kindworld-one.html
 ---
 
 No longer updated - check kindworld.one on the Fediverse Almanac.

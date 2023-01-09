@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "refusal.llc (forwarding)"
-permalink: /forwarding-refusal-llc.html
+permalink: /refusal-llc.html
 ---
 
 No longer updated - check refusal.llc on the Fediverse Almanac.

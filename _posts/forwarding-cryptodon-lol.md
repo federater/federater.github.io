@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cryptodon.lol (forwarding)"
-permalink: /forwarding-cryptodon-lol.html
+permalink: /cryptodon-lol.html
 ---
 
 No longer updated - check cryptodon.lol on the Fediverse Almanac.

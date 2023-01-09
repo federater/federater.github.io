@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bcom.moe (forwarding)"
-permalink: /forwarding-bcom-moe.html
+permalink: /bcom-moe.html
 ---
 
 No longer updated - check bcom.moe on the Fediverse Almanac.

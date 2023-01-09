@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bbs.kawa.kun.com (forwarding)"
-permalink: /forwarding-bbs-kawa-kun-com.html
+permalink: /bbs-kawa-kun-com.html
 ---
 
 No longer updated - check bbs.kawa.kun.com on the Fediverse Almanac.

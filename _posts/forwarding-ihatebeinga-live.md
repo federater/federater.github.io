@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ihatebeinga.live (forwarding)"
-permalink: /forwarding-ihatebeinga-live.html
+permalink: /ihatebeinga-live.html
 ---
 
 No longer updated - check ihatebeinga.live on the Fediverse Almanac.

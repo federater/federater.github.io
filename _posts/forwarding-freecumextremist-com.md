@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "freecumextremist.com (forwarding)"
-permalink: /forwarding-freecumextremist-com.html
+permalink: /freecumextremist-com.html
 ---
 
 No longer updated - check freecumextremist.com on the Fediverse Almanac.

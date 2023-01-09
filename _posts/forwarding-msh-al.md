@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "msh.al (forwarding)"
-permalink: /forwarding-msh-al.html
+permalink: /msh-al.html
 ---
 
 No longer updated - check msh.al on the Fediverse Almanac.

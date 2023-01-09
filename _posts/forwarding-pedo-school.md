@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pedo.school (forwarding)"
-permalink: /forwarding-pedo-school.html
+permalink: /pedo-school.html
 ---
 
 No longer updated - check pedo.school on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lovingexpressions.net (forwarding)"
-permalink: /forwarding-lovingexpressions-net.html
+permalink: /lovingexpressions-net.html
 ---
 
 No longer updated - check lovingexpressions.net on the Fediverse Almanac.

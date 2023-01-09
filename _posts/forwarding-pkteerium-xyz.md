@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pkteerium.xyz (forwarding)"
-permalink: /forwarding-pkteerium-xyz.html
+permalink: /pkteerium-xyz.html
 ---
 
 No longer updated - check pkteerium.xyz on the Fediverse Almanac.

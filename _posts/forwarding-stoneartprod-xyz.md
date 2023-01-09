@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "stoneartprod.xyz (forwarding)"
-permalink: /forwarding-stoneartprod-xyz.html
+permalink: /stoneartprod-xyz.html
 ---
 
 No longer updated - check stoneartprod.xyz on the Fediverse Almanac.

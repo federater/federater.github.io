@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mstdn.social (forwarding)"
-permalink: /forwarding-mstdn-social.html
+permalink: /mstdn-social.html
 ---
 
 No longer updated - check mstdn.social on the Fediverse Almanac.

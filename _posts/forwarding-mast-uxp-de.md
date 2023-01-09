@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mast.uxp.de (forwarding)"
-permalink: /forwarding-mast-uxp-de.html
+permalink: /mast-uxp-de.html
 ---
 
 No longer updated - check mast.uxp.de on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ghuntley.com (forwarding)"
-permalink: /forwarding-ghuntley-com.html
+permalink: /ghuntley-com.html
 ---
 
 No longer updated - check ghuntley.com on the Fediverse Almanac.

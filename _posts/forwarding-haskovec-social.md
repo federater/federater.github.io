@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "haskovec.social (forwarding)"
-permalink: /forwarding-haskovec-social.html
+permalink: /haskovec-social.html
 ---
 
 No longer updated - check haskovec.social on the Fediverse Almanac.

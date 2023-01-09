@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "universeodon.com (forwarding)"
-permalink: /forwarding-universeodon-com.html
+permalink: /universeodon-com.html
 ---
 
 No longer updated - check universeodon.com on the Fediverse Almanac.

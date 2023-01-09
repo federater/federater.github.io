@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "nicecrew.digital (forwarding)"
-permalink: /forwarding-nicecrew-digital.html
+permalink: /nicecrew-digital.html
 ---
 
 No longer updated - check nicecrew.digital on the Fediverse Almanac.

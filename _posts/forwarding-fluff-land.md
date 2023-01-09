@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "fluff.land (forwarding)"
-permalink: /forwarding-fluff-land.html
+permalink: /fluff-land.html
 ---
 
 No longer updated - check fluff.land on the Fediverse Almanac.

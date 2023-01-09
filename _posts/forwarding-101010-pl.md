@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "101010.pl (forwarding)"
-permalink: /forwarding-101010-pl.html
+permalink: /101010-pl.html
 ---
 
 No longer updated - check 101010.pl on the Fediverse Almanac.

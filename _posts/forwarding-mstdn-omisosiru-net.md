@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mstdn.omisosiru.net (forwarding)"
-permalink: /forwarding-mstdn-omisosiru-net.html
+permalink: /mstdn-omisosiru-net.html
 ---
 
 No longer updated - check mstdn.omisosiru.net on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bergamot.social (forwarding)"
-permalink: /forwarding-bergamot-social.html
+permalink: /bergamot-social.html
 ---
 
 No longer updated - check bergamot.social on the Fediverse Almanac.

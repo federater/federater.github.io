@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bv.umbrellix.org (forwarding)"
-permalink: /forwarding-bv-umbrellix-org.html
+permalink: /bv-umbrellix-org.html
 ---
 
 No longer updated - check bv.umbrellix.org on the Fediverse Almanac.

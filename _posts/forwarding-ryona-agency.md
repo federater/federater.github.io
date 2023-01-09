@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ryona.agency (forwarding)"
-permalink: /forwarding-ryona-agency.html
+permalink: /ryona-agency.html
 ---
 
 No longer updated - check ryona.agency on the Fediverse Almanac.

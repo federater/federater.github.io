@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gingadon.com (forwarding)"
-permalink: /forwarding-gingadon-com.html
+permalink: /gingadon-com.html
 ---
 
 No longer updated - check gingadon.com on the Fediverse Almanac.

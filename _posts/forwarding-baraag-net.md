@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "baraag.net (forwarding)"
-permalink: /forwarding-baraag-net.html
+permalink: /baraag-net.html
 ---
 
 No longer updated - check baraag.net on the Fediverse Almanac.

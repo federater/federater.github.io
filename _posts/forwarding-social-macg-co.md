@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.macg.co (forwarding)"
-permalink: /forwarding-social-macg-co.html
+permalink: /social-macg-co.html
 ---
 
 No longer updated - check social.macg.co on the Fediverse Almanac.

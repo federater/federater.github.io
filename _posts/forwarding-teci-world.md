@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "teci.world (forwarding)"
-permalink: /forwarding-teci-world.html
+permalink: /teci-world.html
 ---
 
 No longer updated - check teci.world on the Fediverse Almanac.

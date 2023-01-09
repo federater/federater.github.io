@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pmth.us (forwarding)"
-permalink: /forwarding-pmth-us.html
+permalink: /pmth-us.html
 ---
 
 No longer updated - check pmth.us on the Fediverse Almanac.

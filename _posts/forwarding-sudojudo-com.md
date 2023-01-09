@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "sudojudo.com (forwarding)"
-permalink: /forwarding-sudojudo-com.html
+permalink: /sudojudo-com.html
 ---
 
 No longer updated - check sudojudo.com on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pawlicker.com (forwarding)"
-permalink: /forwarding-pawlicker-com.html
+permalink: /pawlicker-com.html
 ---
 
 No longer updated - check pawlicker.com on the Fediverse Almanac.

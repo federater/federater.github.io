@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "weirder.earth (forwarding)"
-permalink: /forwarding-weirder-earth.html
+permalink: /weirder-earth.html
 ---
 
 No longer updated - check weirder.earth on the Fediverse Almanac.

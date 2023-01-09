@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "artisan.chat (forwarding)"
-permalink: /forwarding-artisan-chat.html
+permalink: /artisan-chat.html
 ---
 
 No longer updated - check artisan.chat on the Fediverse Almanac.

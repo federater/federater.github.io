@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "crucible.world (forwarding)"
-permalink: /forwarding-crucible-world.html
+permalink: /crucible-world.html
 ---
 
 No longer updated - check crucible.world on the Fediverse Almanac.

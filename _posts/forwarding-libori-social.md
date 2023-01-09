@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "libori.social (forwarding)"
-permalink: /forwarding-libori-social.html
+permalink: /libori-social.html
 ---
 
 No longer updated - check libori.social on the Fediverse Almanac.

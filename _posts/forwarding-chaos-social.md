@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "chaos.social (forwarding)"
-permalink: /forwarding-chaos-social.html
+permalink: /chaos-social.html
 ---
 
 No longer updated - check chaos.social on the Fediverse Almanac.

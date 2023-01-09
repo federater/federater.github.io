@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.benny.de (forwarding)"
-permalink: /forwarding-social-benny-de.html
+permalink: /social-benny-de.html
 ---
 
 No longer updated - check social.benny.de on the Fediverse Almanac.

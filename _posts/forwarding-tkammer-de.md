@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "tkammer.de (forwarding)"
-permalink: /forwarding-tkammer-de.html
+permalink: /tkammer-de.html
 ---
 
 No longer updated - check tkammer.de on the Fediverse Almanac.

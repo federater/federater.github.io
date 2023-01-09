@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "slash.cl (forwarding)"
-permalink: /forwarding-slash-cl.html
+permalink: /slash-cl.html
 ---
 
 No longer updated - check slash.cl on the Fediverse Almanac.

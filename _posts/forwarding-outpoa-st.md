@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "outpoa.st (forwarding)"
-permalink: /forwarding-outpoa-st.html
+permalink: /outpoa-st.html
 ---
 
 No longer updated - check outpoa.st on the Fediverse Almanac.

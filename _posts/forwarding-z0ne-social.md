@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "z0ne.social (forwarding)"
-permalink: /forwarding-z0ne-social.html
+permalink: /z0ne-social.html
 ---
 
 No longer updated - check z0ne.social on the Fediverse Almanac.

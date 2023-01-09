@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cyberstorm.one (forwarding)"
-permalink: /forwarding-cyberstorm-one.html
+permalink: /cyberstorm-one.html
 ---
 
 No longer updated - check cyberstorm.one on the Fediverse Almanac.

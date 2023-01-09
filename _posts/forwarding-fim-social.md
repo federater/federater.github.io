@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "fim.social (forwarding)"
-permalink: /forwarding-fim-social.html
+permalink: /fim-social.html
 ---
 
 No longer updated - check fim.social on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "seal.cafe (forwarding)"
-permalink: /forwarding-seal-cafe.html
+permalink: /seal-cafe.html
 ---
 
 No longer updated - check seal.cafe on the Fediverse Almanac.

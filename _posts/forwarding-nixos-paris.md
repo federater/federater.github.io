@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "nixos.paris (forwarding)"
-permalink: /forwarding-nixos-paris.html
+permalink: /nixos-paris.html
 ---
 
 No longer updated - check nixos.paris on the Fediverse Almanac.

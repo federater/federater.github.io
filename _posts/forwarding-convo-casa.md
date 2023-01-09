@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "convo.casa (forwarding)"
-permalink: /forwarding-convo-casa.html
+permalink: /convo-casa.html
 ---
 
 No longer updated - check convo.casa on the Fediverse Almanac.

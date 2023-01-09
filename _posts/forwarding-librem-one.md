@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "librem.one (forwarding)"
-permalink: /forwarding-librem-one.html
+permalink: /librem-one.html
 ---
 
 No longer updated - check librem.one on the Fediverse Almanac.

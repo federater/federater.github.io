@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "cum.salon (forwarding)"
-permalink: /forwarding-cum-salon.html
+permalink: /cum-salon.html
 ---
 
 No longer updated - check cum.salon on the Fediverse Almanac.

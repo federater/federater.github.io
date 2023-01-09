@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mirr0r.city (forwarding)"
-permalink: /forwarding-mirr0r-city.html
+permalink: /mirr0r-city.html
 ---
 
 No longer updated - check mirr0r.city on the Fediverse Almanac.

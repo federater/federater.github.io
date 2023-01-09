@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.energy (forwarding)"
-permalink: /forwarding-mastodon-energy.html
+permalink: /mastodon-energy.html
 ---
 
 No longer updated - check mastodon.energy on the Fediverse Almanac.

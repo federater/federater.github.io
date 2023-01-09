@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gorf.pub (forwarding)"
-permalink: /forwarding-gorf-pub.html
+permalink: /gorf-pub.html
 ---
 
 No longer updated - check gorf.pub on the Fediverse Almanac.

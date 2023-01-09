@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "snooker.uk.to (forwarding)"
-permalink: /forwarding-snooker-uk-to.html
+permalink: /snooker-uk-to.html
 ---
 
 No longer updated - check snooker.uk.to on the Fediverse Almanac.

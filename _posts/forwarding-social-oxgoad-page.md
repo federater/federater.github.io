@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.oxgoad.page (forwarding)"
-permalink: /forwarding-social-oxgoad-page.html
+permalink: /social-oxgoad-page.html
 ---
 
 No longer updated - check social.oxgoad.page on the Fediverse Almanac.

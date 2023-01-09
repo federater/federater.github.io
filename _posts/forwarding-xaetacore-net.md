@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "xaetacore.net (forwarding)"
-permalink: /forwarding-xaetacore-net.html
+permalink: /xaetacore-net.html
 ---
 
 No longer updated - check xaetacore.net on the Fediverse Almanac.

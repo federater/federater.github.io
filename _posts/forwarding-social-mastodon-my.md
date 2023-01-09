@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.mastodon.my (forwarding)"
-permalink: /forwarding-social-mastodon-my.html
+permalink: /social-mastodon-my.html
 ---
 
 No longer updated - check social.mastodon.my on the Fediverse Almanac.

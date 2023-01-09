@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "nowossjolka.com (forwarding)"
-permalink: /forwarding-nowossjolka-com.html
+permalink: /nowossjolka-com.html
 ---
 
 No longer updated - check nowossjolka.com on the Fediverse Almanac.

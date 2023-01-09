@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "troet.cafe (forwarding)"
-permalink: /forwarding-troet-cafe.html
+permalink: /troet-cafe.html
 ---
 
 No longer updated - check troet.cafe on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gameliberty.club (forwarding)"
-permalink: /forwarding-gameliberty-club.html
+permalink: /gameliberty-club.html
 ---
 
 No longer updated - check gameliberty.club on the Fediverse Almanac.

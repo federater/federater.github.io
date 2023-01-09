@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ignorelist.com (forwarding)"
-permalink: /forwarding-ignorelist-com.html
+permalink: /ignorelist-com.html
 ---
 
 No longer updated - check ignorelist.com on the Fediverse Almanac.

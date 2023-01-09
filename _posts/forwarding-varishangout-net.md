@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "varishangout.net (forwarding)"
-permalink: /forwarding-varishangout-net.html
+permalink: /varishangout-net.html
 ---
 
 No longer updated - check varishangout.net on the Fediverse Almanac.

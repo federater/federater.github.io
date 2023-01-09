@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "hyperboreal.zone (forwarding)"
-permalink: /forwarding-hyperboreal-zone.html
+permalink: /hyperboreal-zone.html
 ---
 
 No longer updated - check hyperboreal.zone on the Fediverse Almanac.

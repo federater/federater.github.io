@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mooo.com (forwarding)"
-permalink: /forwarding-mooo-com.html
+permalink: /mooo-com.html
 ---
 
 No longer updated - check mooo.com on the Fediverse Almanac.

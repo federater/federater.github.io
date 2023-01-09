@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "piazza.today (forwarding)"
-permalink: /forwarding-piazza-today.html
+permalink: /piazza-today.html
 ---
 
 No longer updated - check piazza.today on the Fediverse Almanac.

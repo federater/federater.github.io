@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lizards.live (forwarding)"
-permalink: /forwarding-lizards-live.html
+permalink: /lizards-live.html
 ---
 
 No longer updated - check lizards.live on the Fediverse Almanac.

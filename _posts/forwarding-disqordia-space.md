@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "disqordia.space (forwarding)"
-permalink: /forwarding-disqordia-space.html
+permalink: /disqordia-space.html
 ---
 
 No longer updated - check disqordia.space on the Fediverse Almanac.

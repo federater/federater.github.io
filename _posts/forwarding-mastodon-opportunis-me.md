@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.opportunis.me (forwarding)"
-permalink: /forwarding-mastodon-opportunis-me.html
+permalink: /mastodon-opportunis-me.html
 ---
 
 No longer updated - check mastodon.opportunis.me on the Fediverse Almanac.

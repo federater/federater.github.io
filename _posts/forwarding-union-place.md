@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "union.place (forwarding)"
-permalink: /forwarding-union-place.html
+permalink: /union-place.html
 ---
 
 No longer updated - check union.place on the Fediverse Almanac.

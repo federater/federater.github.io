@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "g1zm0.social (forwarding)"
-permalink: /forwarding-g1zm0-social.html
+permalink: /g1zm0-social.html
 ---
 
 No longer updated - check g1zm0.social on the Fediverse Almanac.

@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "husk.site (forwarding)"
-permalink: /forwarding-husk-site.html
+permalink: /husk-site.html
 ---
 
 No longer updated - check husk.site on the Fediverse Almanac.

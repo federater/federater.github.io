@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "honk.vedetta.com (forwarding)"
-permalink: /forwarding-honk-vedetta-com.html
+permalink: /honk-vedetta-com.html
 ---
 
 No longer updated - check honk.vedetta.com on the Fediverse Almanac.

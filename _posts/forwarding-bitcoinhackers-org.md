@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bitcoinhackers.org (forwarding)"
-permalink: /forwarding-bitcoinhackers-org.html
+permalink: /bitcoinhackers-org.html
 ---
 
 No longer updated - check bitcoinhackers.org on the Fediverse Almanac.

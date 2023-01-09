@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "deliverabilit.ie (forwarding)"
-permalink: /forwarding-deliverabilit-ie.html
+permalink: /deliverabilit-ie.html
 ---
 
 No longer updated - check deliverabilit.ie on the Fediverse Almanac.

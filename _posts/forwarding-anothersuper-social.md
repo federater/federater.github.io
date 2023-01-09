@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "anothersuper.social (forwarding)"
-permalink: /forwarding-anothersuper-social.html
+permalink: /anothersuper-social.html
 ---
 
 No longer updated - check anothersuper.social on the Fediverse Almanac.

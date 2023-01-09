@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "lulz.win (forwarding)"
-permalink: /forwarding-lulz-win.html
+permalink: /lulz-win.html
 ---
 
 No longer updated - check lulz.win on the Fediverse Almanac.

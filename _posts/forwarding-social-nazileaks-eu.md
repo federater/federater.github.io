@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.nazileaks.eu (forwarding)"
-permalink: /forwarding-social-nazileaks-eu.html
+permalink: /social-nazileaks-eu.html
 ---
 
 No longer updated - check social.nazileaks.eu on the Fediverse Almanac.

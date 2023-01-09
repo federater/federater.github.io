@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "m0n5t3r.info (forwarding)"
-permalink: /forwarding-m0n5t3r-info.html
+permalink: /m0n5t3r-info.html
 ---
 
 No longer updated - check m0n5t3r.info on the Fediverse Almanac.

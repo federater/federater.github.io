@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "bikeshed.party (forwarding)"
-permalink: /forwarding-bikeshed-party.html
+permalink: /bikeshed-party.html
 ---
 
 No longer updated - check bikeshed.party on the Fediverse Almanac.

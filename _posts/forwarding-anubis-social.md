@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "anubis.social (forwarding)"
-permalink: /forwarding-anubis-social.html
+permalink: /anubis-social.html
 ---
 
 No longer updated - check anubis.social on the Fediverse Almanac.

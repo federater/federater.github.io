@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gleasonator.com (forwarding)"
-permalink: /forwarding-gleasonator-com.html
+permalink: /gleasonator-com.html
 ---
 
 No longer updated - check gleasonator.com on the Fediverse Almanac.

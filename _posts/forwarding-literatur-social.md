@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "literatur.social (forwarding)"
-permalink: /forwarding-literatur-social.html
+permalink: /literatur-social.html
 ---
 
 No longer updated - check literatur.social on the Fediverse Almanac.

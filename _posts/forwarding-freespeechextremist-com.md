@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "freespeechextremist.com (forwarding)"
-permalink: /forwarding-freespeechextremist-com.html
+permalink: /freespeechextremist-com.html
 ---
 
 No longer updated - check freespeechextremist.com on the Fediverse Almanac.

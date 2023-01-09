@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "dobbs.town (forwarding)"
-permalink: /forwarding-dobbs-town.html
+permalink: /dobbs-town.html
 ---
 
 No longer updated - check dobbs.town on the Fediverse Almanac.

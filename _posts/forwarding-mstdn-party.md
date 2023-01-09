@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mstdn.party (forwarding)"
-permalink: /forwarding-mstdn-party.html
+permalink: /mstdn-party.html
 ---
 
 No longer updated - check mstdn.party on the Fediverse Almanac.

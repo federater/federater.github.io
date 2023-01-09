@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "skinnyver.se (forwarding)"
-permalink: /forwarding-skinnyver-se.html
+permalink: /skinnyver-se.html
 ---
 
 No longer updated - check skinnyver.se on the Fediverse Almanac.

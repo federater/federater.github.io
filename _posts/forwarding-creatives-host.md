@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "creatives.host (forwarding)"
-permalink: /forwarding-creatives-host.html
+permalink: /creatives-host.html
 ---
 
 No longer updated - check creatives.host on the Fediverse Almanac.

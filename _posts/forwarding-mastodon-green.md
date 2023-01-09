@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodon.green (forwarding)"
-permalink: /forwarding-mastodon-green.html
+permalink: /mastodon-green.html
 ---
 
 No longer updated - check mastodon.green on the Fediverse Almanac.

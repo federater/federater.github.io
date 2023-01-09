@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "refusal.biz (forwarding)"
-permalink: /forwarding-refusal-biz.html
+permalink: /refusal-biz.html
 ---
 
 No longer updated - check refusal.biz on the Fediverse Almanac.

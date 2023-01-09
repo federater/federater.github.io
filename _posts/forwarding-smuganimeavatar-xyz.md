@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "smuganimeavatar.xyz (forwarding)"
-permalink: /forwarding-smuganimeavatar-xyz.html
+permalink: /smuganimeavatar-xyz.html
 ---
 
 No longer updated - check smuganimeavatar.xyz on the Fediverse Almanac.

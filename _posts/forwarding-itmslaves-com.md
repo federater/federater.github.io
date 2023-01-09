@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "itmslaves.com (forwarding)"
-permalink: /forwarding-itmslaves-com.html
+permalink: /itmslaves-com.html
 ---
 
 No longer updated - check itmslaves.com on the Fediverse Almanac.

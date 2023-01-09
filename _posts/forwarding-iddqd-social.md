@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "iddqd.social (forwarding)"
-permalink: /forwarding-iddqd-social.html
+permalink: /iddqd-social.html
 ---
 
 No longer updated - check iddqd.social on the Fediverse Almanac.

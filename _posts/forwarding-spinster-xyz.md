@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "spinster.xyz (forwarding)"
-permalink: /forwarding-spinster-xyz.html
+permalink: /spinster-xyz.html
 ---
 
 No longer updated - check spinster.xyz on the Fediverse Almanac.

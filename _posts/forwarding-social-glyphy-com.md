@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "social.glyphy.com (forwarding)"
-permalink: /forwarding-social-glyphy-com.html
+permalink: /social-glyphy-com.html
 ---
 
 No longer updated - check social.glyphy.com on the Fediverse Almanac.

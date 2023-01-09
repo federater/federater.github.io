@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "shoghi.rocks (forwarding)"
-permalink: /forwarding-shoghi-rocks.html
+permalink: /shoghi-rocks.html
 ---
 
 No longer updated - check shoghi.rocks on the Fediverse Almanac.

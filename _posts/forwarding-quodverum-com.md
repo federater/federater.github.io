@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "quodverum.com (forwarding)"
-permalink: /forwarding-quodverum-com.html
+permalink: /quodverum-com.html
 ---
 
 No longer updated - check quodverum.com on the Fediverse Almanac.

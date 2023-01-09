@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodong.lol (forwarding)"
-permalink: /forwarding-mastodong-lol.html
+permalink: /mastodong-lol.html
 ---
 
 No longer updated - check mastodong.lol on the Fediverse Almanac.

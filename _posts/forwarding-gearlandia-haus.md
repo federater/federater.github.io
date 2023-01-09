@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "gearlandia.haus (forwarding)"
-permalink: /forwarding-gearlandia-haus.html
+permalink: /gearlandia-haus.html
 ---
 
 No longer updated - check gearlandia.haus on the Fediverse Almanac.

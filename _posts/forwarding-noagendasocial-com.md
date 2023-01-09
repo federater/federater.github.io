@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "noagendasocial.com (forwarding)"
-permalink: /forwarding-noagendasocial-com.html
+permalink: /noagendasocial-com.html
 ---
 
 No longer updated - check noagendasocial.com on the Fediverse Almanac.

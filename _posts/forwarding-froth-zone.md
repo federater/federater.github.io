@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "froth.zone (forwarding)"
-permalink: /forwarding-froth-zone.html
+permalink: /froth-zone.html
 ---
 
 No longer updated - check froth.zone on the Fediverse Almanac.

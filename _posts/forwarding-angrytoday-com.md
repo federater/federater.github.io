@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "angrytoday.com (forwarding)"
-permalink: /forwarding-angrytoday-com.html
+permalink: /angrytoday-com.html
 ---
 
 No longer updated - check angrytoday.com on the Fediverse Almanac.

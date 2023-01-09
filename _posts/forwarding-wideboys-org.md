@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "wideboys.org (forwarding)"
-permalink: /forwarding-wideboys-org.html
+permalink: /wideboys-org.html
 ---
 
 No longer updated - check wideboys.org on the Fediverse Almanac.

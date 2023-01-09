@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pleroma.topcat.io (forwarding)"
-permalink: /forwarding-pleroma-topcat-io.html
+permalink: /pleroma-topcat-io.html
 ---
 
 No longer updated - check pleroma.topcat.io on the Fediverse Almanac.

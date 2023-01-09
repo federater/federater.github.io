@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "springbo.cc (forwarding)"
-permalink: /forwarding-springbo-cc.html
+permalink: /springbo-cc.html
 ---
 
 No longer updated - check springbo.cc on the Fediverse Almanac.

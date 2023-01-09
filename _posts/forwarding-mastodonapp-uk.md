@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "mastodonapp.uk (forwarding)"
-permalink: /forwarding-mastodonapp-uk.html
+permalink: /mastodonapp-uk.html
 ---
 
 No longer updated - check mastodonapp.uk on the Fediverse Almanac.

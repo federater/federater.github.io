@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "kurosawa.moe (forwarding)"
-permalink: /forwarding-kurosawa-moe.html
+permalink: /kurosawa-moe.html
 ---
 
 No longer updated - check kurosawa.moe on the Fediverse Almanac.

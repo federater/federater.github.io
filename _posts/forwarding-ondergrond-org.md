@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "ondergrond.org (forwarding)"
-permalink: /forwarding-ondergrond-org.html
+permalink: /ondergrond-org.html
 ---
 
 No longer updated - check ondergrond.org on the Fediverse Almanac.

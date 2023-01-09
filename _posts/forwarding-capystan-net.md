@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "capystan.net (forwarding)"
-permalink: /forwarding-capystan-net.html
+permalink: /capystan-net.html
 ---
 
 No longer updated - check capystan.net on the Fediverse Almanac.

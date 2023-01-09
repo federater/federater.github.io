@@ -2,7 +2,7 @@
 layout: post
 date: 2023-01-09 00:00 GMT
 title: "pawoo.net (forwarding)"
-permalink: /forwarding-pawoo-net.html
+permalink: /pawoo-net.html
 ---
 
 No longer updated - check pawoo.net on the Fediverse Almanac.
