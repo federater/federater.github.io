@@ -2,6 +2,8 @@
 layout: home
 title: FedeRater Reports
 ---
+> FedeRater has been obsoleted, with the release of the [Fediverse Almanac.](https://www.fediversealmanac.com/docs) This site will probably not continue to be updated.
+
 Many decisions on whether to join (as a user) or defederate from (as an admin) a site are assisted by knowing what other sites tend to be in that one's orbit. FedeRater polls the cloud of public posts, and maps some of those connections in a simple report. It's not intended to be the be-all, end-all of anything, but it makes the extremes very easy to spot.
 
 _This is not a blocklist! Domains of all varieties show up here - in particular, if someone reports a domain on the fediblock hashtag, both reporter and reported domains will get a report (if they aren't already here). Use both to decide if the report is trustworthy, or if you need to look further yourself.

@@ -1,349 +1,250 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-05T20:53:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Federater</title><subtitle>An archive of FedeRater reports on various ActivityPub/fediverse sites and their network relationships.</subtitle><entry><title type="html">mastodon.se (2023/01/06)</title><link href="http://localhost:4000/mastodon-se.html" rel="alternate" type="text/html" title="mastodon.se (2023/01/06)" /><published>2023-01-05T20:52:00-05:00</published><updated>2023-01-05T20:52:00-05:00</updated><id>http://localhost:4000/mastodon-se</id><content type="html" xml:base="http://localhost:4000/mastodon-se.html">&lt;h2 id=&quot;mastodonse---mastodon-355&quot;&gt;&lt;a href=&quot;https://mastodon.se&quot;&gt;mastodon.se&lt;/a&gt; - Mastodon 3.5.5&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-09T08:00:07-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Federater</title><subtitle>An archive of FedeRater reports on various ActivityPub/fediverse sites and their network relationships.</subtitle><entry><title type="html">arewe.social (2023/01/09)</title><link href="http://localhost:4000/arewe-social.html" rel="alternate" type="text/html" title="arewe.social (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/arewe-social</id><content type="html" xml:base="http://localhost:4000/arewe-social.html">&lt;h2 id=&quot;arewesocial---mastodon-402-reports-6-users&quot;&gt;&lt;a href=&quot;https://arewe.social&quot;&gt;arewe.social&lt;/a&gt; - Mastodon 4.0.2 (reports 6 users)&lt;/h2&gt;
 
 &lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;@stemid&lt;/li&gt;
+  &lt;li&gt;@robotblake&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-nu.html&quot;&gt;mastodon.nu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/peoplemaking-games.html&quot;&gt;peoplemaking.games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/hachyderm-io.html&quot;&gt;hachyderm.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-gamedev-place.html&quot;&gt;mastodon.gamedev.place&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/graphics-social.html&quot;&gt;graphics.social&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/fedi-simonwillison-net.html&quot;&gt;fedi.simonwillison.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/masto-ai.html&quot;&gt;masto.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/octodon-social.html&quot;&gt;octodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/getautism-online.html&quot;&gt;getautism.online&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/tchafia-be.html&quot;&gt;tchafia.be&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:02 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">arewe.social - Mastodon 4.0.2 (reports 6 users)</summary></entry><entry><title type="html">bcom.moe (2023/01/09)</title><link href="http://localhost:4000/bcom-moe.html" rel="alternate" type="text/html" title="bcom.moe (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/bcom-moe</id><content type="html" xml:base="http://localhost:4000/bcom-moe.html">&lt;h2 id=&quot;bcommoe---mastodon-402-reports-20-users&quot;&gt;&lt;a href=&quot;https://bcom.moe&quot;&gt;bcom.moe&lt;/a&gt; - Mastodon 4.0.2 (reports 20 users)&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@billchenchina&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/pleroma-xyenon-bid.html&quot;&gt;pleroma.xyenon.bid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/yuuta-moe.html&quot;&gt;yuuta.moe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/cmx-im.html&quot;&gt;cmx.im&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/uuu-moe.html&quot;&gt;uuu.moe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/pokemon-men.html&quot;&gt;pokemon.men&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🚫 &lt;a href=&quot;/wxw-moe.html&quot;&gt;wxw.moe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-sdf-org.html&quot;&gt;mastodon.sdf.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/g0v-social.html&quot;&gt;g0v.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodonapp-uk.html&quot;&gt;mastodonapp.uk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:07 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">bcom.moe - Mastodon 4.0.2 (reports 20 users)</summary></entry><entry><title type="html">bv.umbrellix.org (2023/01/09)</title><link href="http://localhost:4000/bv-umbrellix-org.html" rel="alternate" type="text/html" title="bv.umbrellix.org (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/bv-umbrellix-org</id><content type="html" xml:base="http://localhost:4000/bv-umbrellix-org.html">&lt;h2 id=&quot;bvumbrellixorg-reports-7-users&quot;&gt;&lt;a href=&quot;https://bv.umbrellix.org&quot;&gt;bv.umbrellix.org&lt;/a&gt; (reports 7 users)&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@ellenor&lt;/li&gt;
+  &lt;li&gt;@amelia&lt;/li&gt;
+  &lt;li&gt;@lightning&lt;/li&gt;
+  &lt;li&gt;@reinhilde&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;☣️ &lt;a href=&quot;/queer-hacktivis-me.html&quot;&gt;queer.hacktivis.me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-ar-al.html&quot;&gt;mastodon.ar.al&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/meow-social.html&quot;&gt;meow.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/infosec-exchange.html&quot;&gt;infosec.exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🚫 &lt;a href=&quot;/mastodon-ml.html&quot;&gt;mastodon.ml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🚫 &lt;a href=&quot;/akko-disqordia-space.html&quot;&gt;akko.disqordia.space&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;⚠️ &lt;a href=&quot;/eightpoint-app.html&quot;&gt;eightpoint.app&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/peoplemaking-games.html&quot;&gt;peoplemaking.games&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mk-vulpes-one.html&quot;&gt;mk.vulpes.one&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;☣️ &lt;a href=&quot;/shigusegubu-club.html&quot;&gt;shigusegubu.club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;☣️ &lt;a href=&quot;/freecumextremist-com.html&quot;&gt;freecumextremist.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-nz.html&quot;&gt;mastodon.nz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/social-shadowkat-net.html&quot;&gt;social.shadowkat.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/crimew-gay.html&quot;&gt;crimew.gay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:09 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">bv.umbrellix.org (reports 7 users)</summary></entry><entry><title type="html">decentralised.social (2023/01/09)</title><link href="http://localhost:4000/decentralised-social.html" rel="alternate" type="text/html" title="decentralised.social (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/decentralised-social</id><content type="html" xml:base="http://localhost:4000/decentralised-social.html">&lt;h2 id=&quot;decentralisedsocial---pleroma-reports-1-users&quot;&gt;&lt;a href=&quot;https://decentralised.social&quot;&gt;decentralised.social&lt;/a&gt; - Pleroma (reports 1 users)&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@wezm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/hachyderm-io.html&quot;&gt;hachyderm.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/our-town-social.html&quot;&gt;our-town.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-online.html&quot;&gt;mastodon.online&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/fosstodon-org.html&quot;&gt;fosstodon.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/social-lot23-com.html&quot;&gt;social.lot23.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/octodon-social.html&quot;&gt;octodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/infosec-exchange.html&quot;&gt;infosec.exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mas-to.html&quot;&gt;mas.to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/budmo-info.html&quot;&gt;budmo.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:01 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">decentralised.social - Pleroma (reports 1 users)</summary></entry><entry><title type="html">deliverabilit.ie (2023/01/09)</title><link href="http://localhost:4000/deliverabilit-ie.html" rel="alternate" type="text/html" title="deliverabilit.ie (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/deliverabilit-ie</id><content type="html" xml:base="http://localhost:4000/deliverabilit-ie.html">&lt;h2 id=&quot;deliverabilitie---mastodon-402-reports-29-users&quot;&gt;&lt;a href=&quot;https://deliverabilit.ie&quot;&gt;deliverabilit.ie&lt;/a&gt; - Mastodon 4.0.2 (reports 29 users)&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@steve&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/hachyderm-io.html&quot;&gt;hachyderm.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-lol.html&quot;&gt;mastodon.lol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mas-to.html&quot;&gt;mas.to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/lgbt-io.html&quot;&gt;lgbt.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/infosec-exchange.html&quot;&gt;infosec.exchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-ie.html&quot;&gt;mastodon.ie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-social.html&quot;&gt;mstdn.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-party.html&quot;&gt;mstdn.party&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-dk.html&quot;&gt;mstdn.dk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/masto-ai.html&quot;&gt;masto.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/dan-mastohon-com.html&quot;&gt;dan.mastohon.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:04 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">deliverabilit.ie - Mastodon 4.0.2 (reports 29 users)</summary></entry><entry><title type="html">dev.mastodon.lmorchard.com (2023/01/09)</title><link href="http://localhost:4000/dev-mastodon-lmorchard-com.html" rel="alternate" type="text/html" title="dev.mastodon.lmorchard.com (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/dev-mastodon-lmorchard-com</id><content type="html" xml:base="http://localhost:4000/dev-mastodon-lmorchard-com.html">&lt;h2 id=&quot;devmastodonlmorchardcom&quot;&gt;&lt;a href=&quot;https://dev.mastodon.lmorchard.com&quot;&gt;dev.mastodon.lmorchard.com&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;no-mods-found&quot;&gt;No mods found&lt;/h3&gt;
+
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:11 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">dev.mastodon.lmorchard.com</summary></entry><entry><title type="html">f.cz (2023/01/09)</title><link href="http://localhost:4000/f-cz.html" rel="alternate" type="text/html" title="f.cz (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/f-cz</id><content type="html" xml:base="http://localhost:4000/f-cz.html">&lt;h2 id=&quot;fcz---mastodon-402-reports-39-users&quot;&gt;&lt;a href=&quot;https://f.cz&quot;&gt;f.cz&lt;/a&gt; - Mastodon 4.0.2 (reports 39 users)&lt;/h2&gt;
+
+&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;@xChaos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodonczech-cz.html&quot;&gt;mastodonczech.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/witter-cz.html&quot;&gt;witter.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/cztwitter-cz.html&quot;&gt;cztwitter.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-arch-linux-cz.html&quot;&gt;mastodon.arch-linux.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/chatsubo-cbrpnk-dev.html&quot;&gt;chatsubo.cbrpnk.dev&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-pirati-cz.html&quot;&gt;mastodon.pirati.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-coffee.html&quot;&gt;mastodon.coffee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/spondr-cz.html&quot;&gt;spondr.cz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/arch-linux-cz.html&quot;&gt;arch-linux.cz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;🐘 &lt;a href=&quot;/fed-celp-de.html&quot;&gt;fed.celp.de&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/hachyderm-io.html&quot;&gt;hachyderm.io&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/infosec-exchange.html&quot;&gt;infosec.exchange&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/berserker-town.html&quot;&gt;berserker.town&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/loma-ml.html&quot;&gt;loma.ml&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:52:05 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">mastodon.se - Mastodon 3.5.5</summary></entry><entry><title type="html">teci.world (2023/01/06)</title><link href="http://localhost:4000/teci-world.html" rel="alternate" type="text/html" title="teci.world (2023/01/06)" /><published>2023-01-05T20:52:00-05:00</published><updated>2023-01-05T20:52:00-05:00</updated><id>http://localhost:4000/teci-world</id><content type="html" xml:base="http://localhost:4000/teci-world.html">&lt;h2 id=&quot;socialteciworld&quot;&gt;&lt;a href=&quot;https://social.teci.world&quot;&gt;social.teci.world&lt;/a&gt;&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;SUSPEND RECOMMENDED&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@curtis&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/gleasonator-com.html&quot;&gt;gleasonator.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/lain-com.html&quot;&gt;lain.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/poa-st.html&quot;&gt;poa.st&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/bikeshed-party.html&quot;&gt;bikeshed.party&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/noagendasocial-com.html&quot;&gt;noagendasocial.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shitposter-club.html&quot;&gt;shitposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/botsin-space.html&quot;&gt;botsin.space&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/spinster-xyz.html&quot;&gt;spinster.xyz&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/collapsitarian-io.html&quot;&gt;collapsitarian.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:52:37 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">social.teci.world</summary></entry><entry><title type="html">elonsucks.org (2023/01/06)</title><link href="http://localhost:4000/elonsucks-org.html" rel="alternate" type="text/html" title="elonsucks.org (2023/01/06)" /><published>2023-01-05T20:51:00-05:00</published><updated>2023-01-05T20:51:00-05:00</updated><id>http://localhost:4000/elonsucks-org</id><content type="html" xml:base="http://localhost:4000/elonsucks-org.html">&lt;h2 id=&quot;elonsucksorg---mastodon-402&quot;&gt;&lt;a href=&quot;https://elonsucks.org&quot;&gt;elonsucks.org&lt;/a&gt; - Mastodon 4.0.2&lt;/h2&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@adam&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-party.html&quot;&gt;mstdn.party&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/home-social.html&quot;&gt;home.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/universeodon-com.html&quot;&gt;universeodon.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/aus-social.html&quot;&gt;aus.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodonapp-uk.html&quot;&gt;mastodonapp.uk&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/jistflow-com.html&quot;&gt;jistflow.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/stop-voring-me.html&quot;&gt;stop.voring.me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-world.html&quot;&gt;mastodon.world&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/pony-social.html&quot;&gt;pony.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-knight-fyi.html&quot;&gt;mastodon.knight.fyi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/newsrelay-org.html&quot;&gt;newsrelay.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/newsie-social.html&quot;&gt;newsie.social&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-social.html&quot;&gt;mstdn.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/social-vivaldi-net.html&quot;&gt;social.vivaldi.net&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/partyparrot-social.html&quot;&gt;partyparrot.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-hongkongers-net.html&quot;&gt;mastodon.hongkongers.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/toot-community.html&quot;&gt;toot.community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/infosec-exchange.html&quot;&gt;infosec.exchange&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Report generated on: Fri Jan  6 01:51:33 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">elonsucks.org - Mastodon 4.0.2</summary></entry><entry><title type="html">ubiqueros.com (2023/01/06)</title><link href="http://localhost:4000/ubiqueros-com.html" rel="alternate" type="text/html" title="ubiqueros.com (2023/01/06)" /><published>2023-01-05T20:51:00-05:00</published><updated>2023-01-05T20:51:00-05:00</updated><id>http://localhost:4000/ubiqueros-com</id><content type="html" xml:base="http://localhost:4000/ubiqueros-com.html">&lt;h2 id=&quot;ubiqueroscom---misskey-misskey-dev-121190&quot;&gt;&lt;a href=&quot;https://ubiqueros.com&quot;&gt;ubiqueros.com&lt;/a&gt; - Misskey (misskey-dev) 12.119.0&lt;/h2&gt;
-
-&lt;h3 id=&quot;no-mods-found&quot;&gt;No mods found&lt;/h3&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:51:47 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">ubiqueros.com - Misskey (misskey-dev) 12.119.0</summary></entry><entry><title type="html">bae.st (2023/01/06)</title><link href="http://localhost:4000/bae-st.html" rel="alternate" type="text/html" title="bae.st (2023/01/06)" /><published>2023-01-05T20:50:00-05:00</published><updated>2023-01-05T20:50:00-05:00</updated><id>http://localhost:4000/bae-st</id><content type="html" xml:base="http://localhost:4000/bae-st.html">&lt;h2 id=&quot;baest---pleroma-reports-3472-users&quot;&gt;&lt;a href=&quot;https://bae.st&quot;&gt;bae.st&lt;/a&gt; - Pleroma (reports 3472 users)&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;SUSPEND RECOMMENDED&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:01 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">f.cz - Mastodon 4.0.2 (reports 39 users)</summary></entry><entry><title type="html">fedi.lucdev.net (2023/01/09)</title><link href="http://localhost:4000/fedi-lucdev-net.html" rel="alternate" type="text/html" title="fedi.lucdev.net (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/fedi-lucdev-net</id><content type="html" xml:base="http://localhost:4000/fedi-lucdev-net.html">&lt;h2 id=&quot;fedilucdevnet---akkoma-reports-4-users&quot;&gt;&lt;a href=&quot;https://fedi.lucdev.net&quot;&gt;fedi.lucdev.net&lt;/a&gt; - Akkoma (reports 4 users)&lt;/h2&gt;
 
 &lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;@mactonite&lt;/li&gt;
-  &lt;li&gt;@Elfie&lt;/li&gt;
-  &lt;li&gt;@FBI&lt;/li&gt;
-  &lt;li&gt;@zemichi&lt;/li&gt;
-  &lt;li&gt;@roboneko&lt;/li&gt;
-  &lt;li&gt;@get&lt;/li&gt;
-  &lt;li&gt;@Terry&lt;/li&gt;
-  &lt;li&gt;@RedTechEngineer&lt;/li&gt;
-  &lt;li&gt;@jasonl8446&lt;/li&gt;
-  &lt;li&gt;@redneonglow&lt;/li&gt;
-  &lt;li&gt;@Awoo&lt;/li&gt;
-  &lt;li&gt;@siinclaiir&lt;/li&gt;
-  &lt;li&gt;@nosleep&lt;/li&gt;
-  &lt;li&gt;@sjw&lt;/li&gt;
+  &lt;li&gt;@luc&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/poa-st.html&quot;&gt;poa.st&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shitposter-club.html&quot;&gt;shitposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/freespeechextremist-com.html&quot;&gt;freespeechextremist.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/gameliberty-club.html&quot;&gt;gameliberty.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/varishangout-net.html&quot;&gt;varishangout.net&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/eientei-org.html&quot;&gt;eientei.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/skippers-bin-com.html&quot;&gt;skippers-bin.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/gleasonator-com.html&quot;&gt;gleasonator.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/mugicha-club.html&quot;&gt;mugicha.club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-lol.html&quot;&gt;mastodon.lol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/awoo-fai-st.html&quot;&gt;awoo.fai.st&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/astrid-tech.html&quot;&gt;astrid.tech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-yshi-org.html&quot;&gt;mastodon.yshi.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/lucdev-net.html&quot;&gt;lucdev.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/fedi-astrid-tech.html&quot;&gt;fedi.astrid.tech&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;🚫 &lt;a href=&quot;/fedi-absturztau-be.html&quot;&gt;fedi.absturztau.be&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-jp.html&quot;&gt;mstdn.jp&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/noagendasocial-com.html&quot;&gt;noagendasocial.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/blob-cat.html&quot;&gt;blob.cat&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/nicecrew-digital.html&quot;&gt;nicecrew.digital&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/chudbuds-lol.html&quot;&gt;chudbuds.lol&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/sleepy-cafe.html&quot;&gt;sleepy.cafe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/cawfee-club.html&quot;&gt;cawfee.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/freecumextremist-com.html&quot;&gt;freecumextremist.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/seal-cafe.html&quot;&gt;seal.cafe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shpposter-club.html&quot;&gt;shpposter.club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/wetdry-world.html&quot;&gt;wetdry.world&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/fosstodon-org.html&quot;&gt;fosstodon.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/moth-zone.html&quot;&gt;moth.zone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/pony-social.html&quot;&gt;pony.social&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Report generated on: Fri Jan  6 01:50:52 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">bae.st - Pleroma (reports 3472 users)</summary></entry><entry><title type="html">outerheaven.club (2023/01/06)</title><link href="http://localhost:4000/outerheaven-club.html" rel="alternate" type="text/html" title="outerheaven.club (2023/01/06)" /><published>2023-01-05T20:50:00-05:00</published><updated>2023-01-05T20:50:00-05:00</updated><id>http://localhost:4000/outerheaven-club</id><content type="html" xml:base="http://localhost:4000/outerheaven-club.html">&lt;p&gt;outerheaven.club has 2 hosts.&lt;/p&gt;
-
-&lt;h2 id=&quot;outerheavenclub---akkoma-reports-662-users&quot;&gt;&lt;a href=&quot;https://outerheaven.club&quot;&gt;outerheaven.club&lt;/a&gt; - Akkoma (reports 662 users)&lt;/h2&gt;
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:08 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">fedi.lucdev.net - Akkoma (reports 4 users)</summary></entry><entry><title type="html">fim.social (2023/01/09)</title><link href="http://localhost:4000/fim-social.html" rel="alternate" type="text/html" title="fim.social (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/fim-social</id><content type="html" xml:base="http://localhost:4000/fim-social.html">&lt;h2 id=&quot;fimsocial---mastodon-402-reports-101-users&quot;&gt;&lt;a href=&quot;https://fim.social&quot;&gt;fim.social&lt;/a&gt; - Mastodon 4.0.2 (reports 101 users)&lt;/h2&gt;
 
 &lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;@solidsanek&lt;/li&gt;
-  &lt;li&gt;@administration&lt;/li&gt;
+  &lt;li&gt;@marcus&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/toast-cafe.html&quot;&gt;toast.cafe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/akkos-fritu-re.html&quot;&gt;akkos.fritu.re&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shitposter-club.html&quot;&gt;shitposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/congregation-pardoners-church.html&quot;&gt;congregation.pardoners.church&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/kawen-space.html&quot;&gt;kawen.space&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/bolha-us.html&quot;&gt;bolha.us&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/ursal-zone.html&quot;&gt;ursal.zone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/wandering-shop.html&quot;&gt;wandering.shop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/conversafiada-net.html&quot;&gt;conversafiada.net&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shpposter-club.html&quot;&gt;shpposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/enes-lv.html&quot;&gt;enes.lv&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/viridianpatriots-com.html&quot;&gt;viridianpatriots.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/disqordia-space.html&quot;&gt;disqordia.space&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/ravenation-club.html&quot;&gt;ravenation.club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/masto-donte-com-br.html&quot;&gt;masto.donte.com.br&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/botsin-space.html&quot;&gt;botsin.space&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/vira-lata-org.html&quot;&gt;vira-lata.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐘 &lt;a href=&quot;/mas-to.html&quot;&gt;mas.to&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Report generated on: Fri Jan  6 01:50:33 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;mkouterheavenclub---foundkey-akkomadevfoundkeygang-1300-preview1&quot;&gt;&lt;a href=&quot;https://mk.outerheaven.club&quot;&gt;mk.outerheaven.club&lt;/a&gt; - FoundKey (akkoma.dev/FoundKeyGang) 13.0.0-preview.1&lt;/h2&gt;
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:10 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">fim.social - Mastodon 4.0.2 (reports 101 users)</summary></entry><entry><title type="html">framatube.org (2023/01/09)</title><link href="http://localhost:4000/framatube-org.html" rel="alternate" type="text/html" title="framatube.org (2023/01/09)" /><published>2023-01-08T20:22:00-05:00</published><updated>2023-01-08T20:22:00-05:00</updated><id>http://localhost:4000/framatube-org</id><content type="html" xml:base="http://localhost:4000/framatube-org.html">&lt;h2 id=&quot;framatubeorg---peertube-chocobozzz-reports-5-users&quot;&gt;&lt;a href=&quot;https://framatube.org&quot;&gt;framatube.org&lt;/a&gt; - PeerTube (Chocobozzz) (reports 5 users)&lt;/h2&gt;
 
 &lt;h3 id=&quot;no-mods-found&quot;&gt;No mods found&lt;/h3&gt;
 
-&lt;h3 id=&quot;sites-popular-with-administration-1&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mk-toast-cafe.html&quot;&gt;mk.toast.cafe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/p-enes-lv.html&quot;&gt;p.enes.lv&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shpposter-club.html&quot;&gt;shpposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/raru-re.html&quot;&gt;raru.re&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/skeletons-gay.html&quot;&gt;skeletons.gay&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/pl-ebin-zone.html&quot;&gt;pl.ebin.zone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/snowdin-town.html&quot;&gt;snowdin.town&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/bungle-online.html&quot;&gt;bungle.online&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline-1&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/pleroma-guizzyordi-info.html&quot;&gt;pleroma.guizzyordi.info&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/fosstodon-org.html&quot;&gt;fosstodon.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/vibewave-space.html&quot;&gt;vibewave.space&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/ak-kawen-space.html&quot;&gt;ak.kawen.space&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/cawfee-club.html&quot;&gt;cawfee.club&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:50:34 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">outerheaven.club has 2 hosts.</summary></entry><entry><title type="html">letsalllovela.in (2023/01/06)</title><link href="http://localhost:4000/letsalllovela-in.html" rel="alternate" type="text/html" title="letsalllovela.in (2023/01/06)" /><published>2023-01-05T20:47:00-05:00</published><updated>2023-01-05T20:47:00-05:00</updated><id>http://localhost:4000/letsalllovela-in</id><content type="html" xml:base="http://localhost:4000/letsalllovela-in.html">&lt;h2 id=&quot;letsalllovelain&quot;&gt;&lt;a href=&quot;https://letsalllovela.in&quot;&gt;letsalllovela.in&lt;/a&gt;&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;SUSPEND RECOMMENDED&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@essie&lt;/li&gt;
-  &lt;li&gt;@nik&lt;/li&gt;
-  &lt;li&gt;@crushv&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/misskey-bubbletea-dev.html&quot;&gt;misskey.bubbletea.dev&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/shitposter-club.html&quot;&gt;shitposter.club&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/sleepy-cafe.html&quot;&gt;sleepy.cafe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/pl-nulled-red.html&quot;&gt;pl.nulled.red&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/freecumextremist-com.html&quot;&gt;freecumextremist.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/clubcyberia-co.html&quot;&gt;clubcyberia.co&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/posts-stream.html&quot;&gt;posts.stream&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/cum-salon.html&quot;&gt;cum.salon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/refusal-biz.html&quot;&gt;refusal.biz&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/skinnyver-se.html&quot;&gt;skinnyver.se&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/poa-st.html&quot;&gt;poa.st&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/chudbuds-lol.html&quot;&gt;chudbuds.lol&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/freeatlantis-com.html&quot;&gt;freeatlantis.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☢️ &lt;a href=&quot;/noagendasocial-com.html&quot;&gt;noagendasocial.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:47:49 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">letsalllovela.in</summary></entry><entry><title type="html">witches.live (2023/01/06)</title><link href="http://localhost:4000/witches-live.html" rel="alternate" type="text/html" title="witches.live (2023/01/06)" /><published>2023-01-05T20:42:00-05:00</published><updated>2023-01-05T20:42:00-05:00</updated><id>http://localhost:4000/witches-live</id><content type="html" xml:base="http://localhost:4000/witches-live.html">&lt;h2 id=&quot;witcheslive---mastodon-witcheslive-301-reports-4213-users&quot;&gt;&lt;a href=&quot;https://witches.live&quot;&gt;witches.live&lt;/a&gt; - Mastodon (witcheslive) 3.0.1 (reports 4213 users)&lt;/h2&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@anna&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-sergal-org.html&quot;&gt;mastodon.sergal.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/akko-disqordia-space.html&quot;&gt;akko.disqordia.space&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/social-xenofem-me.html&quot;&gt;social.xenofem.me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🚫 &lt;a href=&quot;/jorts-horse.html&quot;&gt;jorts.horse&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/pl-lain-sh.html&quot;&gt;pl.lain.sh&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;☣️ &lt;a href=&quot;/misskey-bubbletea-dev.html&quot;&gt;misskey.bubbletea.dev&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;⚠️ &lt;a href=&quot;/kolektiva-social.html&quot;&gt;kolektiva.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-social.html&quot;&gt;mastodon.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/glitch-lgbt.html&quot;&gt;glitch.lgbt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/stop-voring-me.html&quot;&gt;stop.voring.me&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mstdn-social.html&quot;&gt;mstdn.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/botsin-space.html&quot;&gt;botsin.space&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/chaos-social.html&quot;&gt;chaos.social&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/tech-lgbt.html&quot;&gt;tech.lgbt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;🐘 &lt;a href=&quot;/mastodon-online.html&quot;&gt;mastodon.online&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 01:42:34 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">witches.live - Mastodon (witcheslive) 3.0.1 (reports 4213 users)</summary></entry><entry><title type="html">federated.fun (2023/01/06)</title><link href="http://localhost:4000/federated-fun.html" rel="alternate" type="text/html" title="federated.fun (2023/01/06)" /><published>2023-01-05T19:32:00-05:00</published><updated>2023-01-05T19:32:00-05:00</updated><id>http://localhost:4000/federated-fun</id><content type="html" xml:base="http://localhost:4000/federated-fun.html">&lt;h2 id=&quot;federatedfun&quot;&gt;federated.fun&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;SUSPEND RECOMMENDED&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@jeff&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☢️ ryona.agency&lt;/li&gt;
-  &lt;li&gt;🚫 berserker.town&lt;/li&gt;
-  &lt;li&gt;☢️ cawfee.club&lt;/li&gt;
-  &lt;li&gt;⚠️ kolektiva.social&lt;/li&gt;
-  &lt;li&gt;☣️ collapsitarian.io&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☢️ beefyboys.win&lt;/li&gt;
-  &lt;li&gt;☣️ seal.cafe&lt;/li&gt;
-  &lt;li&gt;☣️ post.ebin.club&lt;/li&gt;
-  &lt;li&gt;☣️ shitposter.club&lt;/li&gt;
-  &lt;li&gt;🐘 newsie.social&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Fri Jan  6 00:32:53 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">federated.fun</summary></entry><entry><title type="html">bungle.online (2023/01/05)</title><link href="http://localhost:4000/bungle-online.html" rel="alternate" type="text/html" title="bungle.online (2023/01/05)" /><published>2023-01-05T18:20:00-05:00</published><updated>2023-01-05T18:20:00-05:00</updated><id>http://localhost:4000/bungle-online</id><content type="html" xml:base="http://localhost:4000/bungle-online.html">&lt;h2 id=&quot;bungleonline---calckey-thatonecalculator-1304&quot;&gt;bungle.online - Calckey (thatonecalculator) 13.0.4&lt;/h2&gt;
-
-&lt;h3 id=&quot;mods&quot;&gt;Mods&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;@8jhq6k32an&lt;/li&gt;
-  &lt;li&gt;@8k6gimkfq3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sites-popular-with-administration&quot;&gt;Sites popular with administration&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☣️ waifuism.life&lt;/li&gt;
-  &lt;li&gt;🐘 cathode.church&lt;/li&gt;
-  &lt;li&gt;☣️ shpposter.club&lt;/li&gt;
-  &lt;li&gt;🐘 novoa.nagoya&lt;/li&gt;
-  &lt;li&gt;🐘 akko.cuddlegirls.cafe&lt;/li&gt;
-  &lt;li&gt;🚫 snowdin.town&lt;/li&gt;
-  &lt;li&gt;🐘 pl.nulled.red&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;more-sites-commonly-on-federated-timeline&quot;&gt;More sites commonly on federated timeline&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;☣️ skinnyver.se&lt;/li&gt;
-  &lt;li&gt;☣️ misskey.bubbletea.dev&lt;/li&gt;
-  &lt;li&gt;☣️ social.secretsealing.club&lt;/li&gt;
-  &lt;li&gt;☣️ brotka.st&lt;/li&gt;
-  &lt;li&gt;☣️ shitposter.club&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Report generated on: Thu Jan  5 23:20:02 2023. Data may be outdated or incorrect.
-Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">bungle.online - Calckey (thatonecalculator) 13.0.4</summary></entry></feed>
+&lt;p&gt;Report generated on: Mon Jan  9 01:22:08 2023. Data may be outdated or incorrect.
+Ruleset version: &lt;a href=&quot;/version-basketball&quot;&gt;🏀&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">framatube.org - PeerTube (Chocobozzz) (reports 5 users)</summary></entry></feed>
