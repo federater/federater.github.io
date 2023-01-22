@@ -1,6 +1,8 @@
 ---
 layout: home
 title: FedeRater Reports
+pagination: 
+  enabled: true
 ---
 Many decisions on whether to join (as a user) or defederate from (as an admin) a site are assisted by knowing what other sites tend to be in that one's orbit. FedeRater polls the cloud of public posts, and maps some of those connections in a simple report. It's not intended to be the be-all, end-all of anything, but it makes the extremes very easy to spot.
 
