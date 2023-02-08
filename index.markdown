@@ -22,4 +22,5 @@ Emoji appear next to the domain names, and this is the only "opinion" entered in
 
 Other emoji next to the domain names indicate the domain's occurrence on other human-curated lists: blocks for other reasons, primarily-bot sites (which you may wish to silence to keep them from dominating hashtags or timelines, even if you otherwise approve of them), etc. Check the footnotes of each report to see what parameters it was generated under, and when.
 
-Current version: [🧁](version-cupcake.html]
+Current version: [🗜](/version-clamp)
+Past versions: [✏️](/version-pencil), [🧁](version-cupcake.html], [🏀](/version-basketball)
