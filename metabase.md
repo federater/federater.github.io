@@ -1,7 +1,7 @@
 ---
 title: "Metabase"
 ---
-The metabase is a CSV derived from the database, of all the known links between admin/mods and other instances.
+The [metabase](metabase.csv) is a CSV derived from the database, of all the known links between admin/mods and other instances.
 
 "Known" is doing a lot of work:
 
