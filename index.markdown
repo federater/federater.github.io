@@ -10,7 +10,7 @@ _This is not a blocklist! Domains of all varieties show up here - in particular,
 
 ### The machine side
 
-For the most part, there's no human intervention: the thing just tells you what it's seen. Sometimes it can't figure out what administration endorses, sometimes it can't find a public, federated timeline (not all sites have one). Other than that, it is showing you the top 5-10 sites in each category.
+For the most part, there's no human intervention: the thing just tells you [what it's seen](metabase). Sometimes it can't figure out what administration endorses, sometimes it can't find a public, federated timeline (not all sites have one). Other than that, it is showing you the top 5-10 sites in each category.
 
 Note that user count is self-reported, and some sites have patched this to display an artificially-high or -low number, or simply a random one.
 

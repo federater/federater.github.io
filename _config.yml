@@ -34,7 +34,7 @@ plugins:
   
 header_pages:
   - index.markdown
-  - version-pencil.md
+  - version-clamp.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
