@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-03-07 02:53 GMT
+date: 2023-03-10 12:58 GMT
 title: Domains that have appeared on the fediblock hashtag
 permalink: /hashtag.html
 ---
@@ -545,3 +545,10 @@ These domains have appeared on the fediblock hashtag, either as reporter or repo
 *  [reimu.info](https://federater.github.io/reimu-info.html)
 *  [vfpmedia.com](https://federater.github.io/vfpmedia-com.html)
 *  [mastodon.jordanwages.com](https://federater.github.io/mastodon-jordanwages-com.html)
+*  [climatejustice.social](https://federater.github.io/climatejustice-social.html)
+*  [fedi.syspxl.xyz](https://federater.github.io/fedi-syspxl-xyz.html)
+*  [wuwox.com](https://federater.github.io/wuwox-com.html)
+*  [dotnet.social](https://federater.github.io/dotnet-social.html)
+*  [bound4the.icu](https://federater.github.io/bound4the-icu.html)
+*  [mstdn.mx](https://federater.github.io/mstdn-mx.html)
+*  [flipboard.social](https://federater.github.io/flipboard-social.html)
