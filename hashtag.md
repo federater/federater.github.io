@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-03-10 12:58 GMT
+date: 2023-03-13 11:51 GMT
 title: Domains that have appeared on the fediblock hashtag
 permalink: /hashtag.html
 ---
@@ -552,3 +552,12 @@ These domains have appeared on the fediblock hashtag, either as reporter or repo
 *  [bound4the.icu](https://federater.github.io/bound4the-icu.html)
 *  [mstdn.mx](https://federater.github.io/mstdn-mx.html)
 *  [flipboard.social](https://federater.github.io/flipboard-social.html)
+*  [djsumdog.com](https://federater.github.io/djsumdog-com.html)
+*  [hitchhiker.social](https://federater.github.io/hitchhiker-social.html)
+*  [nyanide.com](https://federater.github.io/nyanide-com.html)
+*  [yotie.blue](https://federater.github.io/yotie-blue.html)
+*  [libbie.cloud](https://federater.github.io/libbie-cloud.html)
+*  [coinfundit.com](https://federater.github.io/coinfundit-com.html)
+*  [adhd.stream](https://federater.github.io/adhd-stream.html)
+*  [airis.dev](https://federater.github.io/airis-dev.html)
+*  [fediverse.lol](https://federater.github.io/fediverse-lol.html)
